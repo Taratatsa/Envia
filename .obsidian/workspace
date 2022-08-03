@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cdb51b5d1dbc516",
+        "id": "6b60a5cd5a4466fa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personnages/Non Joueur/Profanes/Hadriel.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Non Joueur/Profanes/Hadriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Non Joueur/Profanes/Hadriel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,29 +102,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personnages/Non Joueur/Profanes/Hadriel.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2cdb51b5d1dbc516",
+  "active": "6b60a5cd5a4466fa",
   "lastOpenFiles": [
+    "Personnages/Joueur/Iksana Vinaya.md",
+    "Personnages/Joueur/Mordecai Noname.md",
+    "Personnages/Non Joueur/Profanes/Hadriel.md",
     "Personnages/Non Joueur/Profanes/Vinaya Goodness.md",
     "Personnages/Non Joueur/Profanes/Matrvat Anastrianna.md",
-    "Personnages/Non Joueur/Profanes/Hadriel.md",
     "Personnages/Non Joueur/Profanes/Iridesa.md",
     "Personnages/Non Joueur/Profanes/Goodness Matrvat.md",
     "Personnages/Non Joueur/Profanes/Fokastite Alasko.md",
     "Personnages/Non Joueur/Profanes/Candrin Jvalaka.md",
-    "Personnages/Non Joueur/Profanes/Avemya Vinaya.md",
-    "Personnages/Non Joueur/Profanes/Arannis Siannodel.md",
-    "Personnages/Joueur/Erd, du clan des Disciples Rejetés.md"
+    "Personnages/Non Joueur/Profanes/Avemya Vinaya.md"
   ]
 }

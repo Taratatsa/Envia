@@ -33,7 +33,7 @@ Mordecai Noname
 
 ## Relations
 ### Famille
-\[REDACTED\] (Grand-père)
+[[Mog'dral]] (Grand-père)
 
 ### Relations amoureuses
 ### Amis
