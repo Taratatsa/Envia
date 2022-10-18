@@ -1,8 +1,5 @@
 #PanthéonUniversel
 
-Dieu du Destin
-True Neutral
-
 # Dithos
 
 ## Informations personnelles
@@ -18,11 +15,13 @@ Laethrandir, littéralement "Le Vagabond Perdu" (Surnom en Elfique)
 ### Race
 ### Classe %%(le cas échéant)%%
 ### Alignement
+True Neutral
 ### Status
 ### Naissance
 ### Décès
 ### Résidence
 ### Occupation
+Dieu du Destin
 
 ## Histoire
 
