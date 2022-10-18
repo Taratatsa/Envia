@@ -15,7 +15,8 @@ Elle/Elle
 Héritière de la baronnerie De Lisarenne
 
 ### Alias
-Accord (en tant que barde sur les routes), Pensée d'Ista (en tant que barde de cour).
+Accord (en tant que barde sur les routes)
+Pensée d'Ista (en tant que barde de cour)
 
 ### Type de créature
 Humanoïde
@@ -23,7 +24,7 @@ Humanoïde
 ### Race
 Tiefling
 
-### Classe %%(le cas échéant)%%
+### Classe
 Barde 3
 
 ### Alignement
@@ -41,7 +42,9 @@ Vivante
 Vivante
 
 ### Résidence
-La route; Domaine De Lisarenne, Landgrave de Falefone, Empire Kinfordien (occasionel); Académie arcanique de Tricaren , Empire Kinfordien (anciennement).
+Les routes
+Domaine De Lisarenne, Landgrave de Falefone, Empire Kinfordien (occasionel)
+Académie arcanique de Tricaren, Empire Kinfordien (anciennement)
 
 ### Occupation
 Barde, Aventurière, Héritière, Savante
@@ -71,11 +74,9 @@ Le reste de sa vie ne sera alors que tourment, comme sa vie précédente. En eff
 ## Description
 
 ### Apparence
-Mevola apparait comme une femme humaine d'une trentaine d'année, à la peau pâle et aux cheveux violets. Elle a un visage au traits légèrements marqués. Elle mesure 1m72. Ses yeux sont de la même couleur que ses cheveux. Elle porte le plus souvent une tenue de voyage noire jaune et brune. Lorsqu'elle fait des représentations, elle est vétue d'une robe rouge et jaune.
+Mevola apparait au commun des mortels comme une femme humaine d'une trentaine d'année, à la peau pâle et aux cheveux violets. Elle a un visage au traits légèrements marqués. Elle mesure 1m72. Ses yeux sont de la même couleur que ses cheveux. Elle porte le plus souvent une tenue de voyage noire jaune et brune. Lorsqu'elle fait des représentations, elle est vétue d'une robe rouge et jaune.
 
-SPOILERS :
-
-Sous sa véritable apparence, Mevola arbore une double paire de corne violette asortie à sa peau. Sa chevelure est d'un blanc cendré et ses yeux d'un rouge uniforme. Elle porte le plus souvent un maque en plus de ses vêtements habituels, pour cacher son visage et éviter d'être recconue.
+Sous sa véritable apparence, Mevola arbore une double paire de corne violette assorties à sa peau. Sa chevelure est d'un blanc cendré et ses yeux d'un rouge uniforme. Elle porte le plus souvent un masque en plus de ses vêtements habituels, pour cacher son visage et éviter d'être recconue.
 
 ### Personnalité
 Mevola apparait comme une femme charmante, sociable et mystérieuse qui cache une personnalité beaucoup plus froide et méthodique. Elle est intelligente et sait mentir à autrui tout en présentant un visage d’ange. Elle est aussi une musicienne douée au luth, à la flute de pan, et au chant. Cependant, elle peut s’énerver très vite lorsqu’elle n’est pas (et même parfois lorsqu’elle est) dans son rôle. Elle a un fort penchant pour la boisson et une tendance à l’apathie vis-à-vis des problèmes des autres. Cependant, si elle s’investit dans la vie d’autrui, elle aidera avec un grand machiavélisme au dépens de l’avis de la personne concerné. De façon générale, elle essaye de régler ses problèmes de la façon la plus efficace possible.
@@ -126,14 +127,15 @@ Aolis Miséliandre, sa servante lorsqu'elle vivait au chateau.
 ## Arbre Généalogique
 ```mermaid
 graph TD
-    ?!!![...] --> ?z!( )
-    ?!![Pyron de Lisarenne] --> ?y!( )
-    ?z! --> !??[Galadrea de Lisarenne] --> ?y!
-    ?y! --> ?[Emile de Lisarenne] --> ?x!( )
-    ![Yonnah de Lisarenne] --> ?x!
+	PdL[Pyron de Lisarenne] --- PdL_x_GdL( )
+	
+    ?[...] --- ?_x_?( ) --> GdL[Galadrea de Lisarenne] --- PdL_x_GdL
 
-    ?x! --> ?![Mevola de Lisarenne]
-    ?x! --> !![??? de Lisarenne]
+    PdL_x_GdL --> EdL[Emile de Lisarenne] --- EdL_x_YdL( )
+    YdL[Yonnah de Lisarenne] --- EdL_x_YdL
+
+    EdL_x_YdL --> MdL[Mevola de Lisarenne]
+    EdL_x_YdL --> ?dL[??? de Lisarenne]
 ```
 
 ## Citations
