@@ -1,4 +1,5 @@
-#Personnage/Divinité
+#PanthéonKinfordien 
+#PanthéonElfique
 
 ![[Covered.jpg]]
 ![[Uncovered.jpg]]

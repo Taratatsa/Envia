@@ -1,4 +1,4 @@
-#Personnage/Divinité
+#PanthéonUniversel
 
 ![[Forme Mortelle.png]]
 

@@ -1,5 +1,9 @@
 #Règles 
 # Clarification sur les compétences
+## (Dés)Avantages
+Comme stipulé dans les règles, la mécanique d'avantage et de désavantage s'applique en jeu.
+Dans le cas où plusieurs avantages et/ou désavantages sont comptabilisés, les plus nombreux sont appliqués, chaque avantage ou désavantage au-delà du premier apporte un modificateur de ±1 au jet en fonction de sa nature.
+%%Suggestion en playtest%%De plus, dans un souci de représentation de l'échelle de puissance en combat, une créature dont le niveau de puissance est au moins 1,5 fois plus élevé que le niveau personnage joueur le plus avancé, celle-ci réalisera ses jets avec un super-avantage au lieux d'un avantage simple. Il en va de même pour une créature au niveau de puissance 1,5 fois plus faible que le niveau personnage joueur le moins avancé et les désavantage.
 
 ## Compétences composées
 Plus une petite astuce, vous pouvez utiliser une compétence afin d'influencer l'utilisation d'une seconde.

@@ -1,5 +1,5 @@
 #Personnage/Immortel
 
-![[Attachements/PC/Zephira/Avatar.png]]
+![[Attachements/PC/Une Angélique Errance/Zephira/Avatar.png]]
 
 Fille de [[Terigon]] et de [[Prisona]].

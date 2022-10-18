@@ -1,5 +1,5 @@
 #Personnage/Mortel
-#Compagnie 
+#CompagnieDuChaos 
 
 ![[Laurales_Avatar.png]]
 

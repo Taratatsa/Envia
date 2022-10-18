@@ -1,9 +1,9 @@
 #Personnage/Mortel 
 
 Apparence :
-![[Attachements/PC/Somnia/Avatar.jpg]]
+![[Attachements/PC/Une Angélique Errance/Somnia/Avatar.jpg]]
 
 Token :
-![[Attachements/PC/Somnia/Token.png]]
+![[Attachements/PC/Une Angélique Errance/Somnia/Token.png]]
 
 Serviteur de [[Sheysus]]

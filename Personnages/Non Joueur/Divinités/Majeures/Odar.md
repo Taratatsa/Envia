@@ -1,4 +1,4 @@
-#Personnage/Divinité
+#PanthéonUniversel
 
 Forme divine :
 ![[Attachements/NPC/Divinités/Good/Odar, la Lumière/Forme_Divine.jpg]]

@@ -1,4 +1,4 @@
-#Personnage/Divinité
+#PanthéonUniversel
 
 Forme divine :
 ![[Attachements/NPC/Divinités/Evil/Terigon, l'Obscur/Forme_Divine.jpg]]

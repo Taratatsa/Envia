@@ -1,4 +1,4 @@
-#Personnage/Divinité
+#PanthéonKinfordien
 
 ![[Attachements/NPC/Divinités/Neutral/Shaohr, Dieu des rivières/Forme_Mortelle.jpg]]
 

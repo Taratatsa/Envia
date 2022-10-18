@@ -1,4 +1,4 @@
-#Personnage/Divinité
+#PanthéonKinfordien
 
 ![[Couverte.jpg]] 
 ![[Découverte.jpg]]

@@ -1,1 +1,1 @@
-Bien entendu, si vous êtes un joueur, **contentez-vous du règlement et du Lore historique** !
+Bien entendu, si vous êtes un joueur, contentez-vous du **règlement**, de **votre fiche** et du **Lore historique** !

@@ -6,40 +6,53 @@
 
 ## Informations personnelles
 ### Nom Complet
+Avemya Vinaya
 ### Pronoms
+Elle / Féminin
 ### Titres
 ### Alias
+Tornade de sang et de feu (oui on la confond énormément avec sa grand-mère)
 ### Type de créature
+Humanoïde
 ### Race
-### Classe %%(le cas échéant)%%
+Tieffeline
+### Classe
+Niv 6 (min) Sorcière du brasier éternel
+Niv ? Paladin de l'héroïsme
 ### Alignement
+Chaotique Bon
 ### Status
+Vivante
 ### Naissance
 765 de l'ère Kinford
 
-### Décès
 ### Résidence
+Amanguassuaq
 ### Occupations
+Aventurière
 
 ## Histoire
-
+Admiration pour sa grand-mère, devint chevalière.
+*insérez péripétie*
+Éveil de pouvoir.
+Poussez sur la voix du paladin de l'héroïsme.
 ## Description
 ### Apparence
 
 ### Personnalité
 
-## Capacités
-
 ## Relations
 ### Famille
+[[Arannis Siannodel]] (Arrière-grand-père)
+[[Matrvat Anastrianna]] (Arrière-grand-mère)
+[[Bonté Matrvat]](Grand-mère)
 [[Hadriel]] (Père)
-[[Vinaya Goodness]] (Mère)
+[[Vinaya Bonté]] (Mère)
 [[Iksana Vinaya]] (Sœur)
-### Relations amoureuses
-### Amis
-### Alliés et Affiliations
+
 ### Ennemis
-### Autres relations
+[[Raghor Onyx]]
+
 
 ## Arbre Généalogique
 ```mermaid
@@ -47,18 +60,18 @@ graph TD
     MA[Matrvat Anastrianna] --> MAxAS( )
     AS[Arannis Siannodel] --> MAxAS
 
-    MAxAS --> GM[Goodness Matrvat]
+    MAxAS --> BM[Bonté Matrvat]
 
-	GM --> GMxS1( )
-    S1[Compagnon de Goodness Matrvat] --> GMxS1
+	BM --> BMxS1( )
+    S1[Compagnon de Bonté Matrvat] --> BMxS1
     
-    GMxS1 --> VG[Vinaya Goodness]
+    BMxS1 --> VB[Vinaya Bonté]
 
-	VG --> VGxH( )
-    H[Hadriel] --> VGxH
+	VB --> VBxH( )
+    H[Hadriel] --> VBxH
 
-	VGxH --> AV[Avemya Vinaya]
-	VGxH --> IV[Iksana Vinaya]
+	VBxH --> AV[Avemya Vinaya]
+	VBxH --> IV[Iksana Vinaya]
 ```
 
 ## Citations

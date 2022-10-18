@@ -1,4 +1,4 @@
-#Personnage/Divinité 
+#PanthéonKinfordien
 
 Démon de la Guerre
 Chaotic Evil

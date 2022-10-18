@@ -39,9 +39,11 @@ Nécromancien (anciennement)
 ### Amis
 ### Alliés et Affiliations
 ### Ennemis
+[[Arannis Siannodel]]
 [[Matrvat Anastrianna]]
-[[Goodness Matrvat]]
-[[Vinaya Goodness]]
+[[Bonté Matrvat]]
+[[Hadriel]]
+[[Vinaya Bonté]]
 
 ### Autres relations
 
