@@ -86,7 +86,7 @@ Magie.
 
 Luth, flute, tambours, chant.
 
-Conaissances historiques, arcaniques, occultes et religieuses.
+Connaissances historiques, arcaniques, occultes et religieuses.
 
 ## Relations
 
@@ -127,11 +127,11 @@ Aolis Miséliandre, sa servante lorsqu'elle vivait au chateau.
 ## Arbre Généalogique
 ```mermaid
 graph TD
-	PdL[Pyron de Lisarenne] --- PdL_x_GdL( )
+	PdL[Pyron de Lisarenne] --- PdL_x_GdL{{Mariage}}
 	
-    ?[...] --- ?_x_?( ) --> GdL[Galadrea de Lisarenne] --- PdL_x_GdL
+    ?[...] --- ?_x_?(?) --> GdL[Galadrea de Lisarenne] --- PdL_x_GdL
 
-    PdL_x_GdL --> EdL[Emile de Lisarenne] --- EdL_x_YdL( )
+    PdL_x_GdL --> EdL[Emile de Lisarenne] --- EdL_x_YdL{{Mariage}}
     YdL[Yonnah de Lisarenne] --- EdL_x_YdL
 
     EdL_x_YdL --> MdL[Mevola de Lisarenne]
