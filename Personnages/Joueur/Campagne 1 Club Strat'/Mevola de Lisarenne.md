@@ -68,8 +68,8 @@ Cela fait maintenant 7 ans qu’elle voyage. Elle passe régulièrement visiter 
 ### La vérité
 Il y a bien des années, une femme a [fait quelque chose]. Cela a provoqué le courroux [d’un dieu].
 Pour la punir, à sa mort, il la fit réincarner en une tiefelin née de parents humains.
-Elle vécut certes une enfance heureuse, durant laquelle elle développa une relation romantique avec l'une des jeunes filles de la cour qui avait son âge, mais lors de son 18ème anniversaire, de faux souvenir lui furent implantés, la convainquant qu’elle avait grandi non pas en compagnie de celle-ci, mais d'une soeur jumelle.
-Le reste de sa vie ne sera alors que tourment, comme sa vie précédente. En effet, ce cycle dure depuis des siècles et, chaque fois, le tortionnaire se montrent très créatifs pour concocter des façon toujours plus originales de faire de son existence un enfer. Aujourd'hui, c'st sa soeur qui n'existepas, ayant supplanté dans son esprit celle qu'elle aimait tendrement. Mevola pourra-elle briser la malédiction, ou connaitre les origines de celle-ci ?
+Elle vécut certes une enfance heureuse, durant laquelle elle développa une relation romantique avec l'une des jeunes filles de la cour, Aolis Miséliandre qui avait son âge, mais lors de son 18ème anniversaire, de faux souvenir lui furent implantés, la convainquant qu’elle avait grandi non pas en compagnie de celle-ci, mais d'une soeur jumelle.
+Le reste de sa vie ne sera alors que tourment, comme sa vie précédente. En effet, ce cycle dure depuis des siècles et, chaque fois, le tortionnaire se montrent très créatifs pour concocter des façon toujours plus originales de faire de son existence un enfer. Aujourd'hui, c'est sa soeur qui n'existe pas, ayant supplanté dans son esprit Aolis, sa servante, qu'elle aimait tendrement. Mevola pourra-elle briser la malédiction, ou connaitre les origines de celle-ci ?
 
 ## Description
 
@@ -95,10 +95,10 @@ Emile de Lisarenne (Père)
 
 Yonnah de Lisarenne (Mère)
 
-??? de Lisarenne (Soeur)
+Soeur imaginaire
 
 ### Relations amoureuses
-Aucune
+Aolis Miséliandre (Partenaire romantique, anciennement)
 
 ### Amis
 Anémone Tirenbout, Mage (Transmutation), ancienne camarade d'académie et musicienne à ses heures perdues.
@@ -106,8 +106,6 @@ Anémone Tirenbout, Mage (Transmutation), ancienne camarade d'académie et music
 William de Lotwatch, Warlock, ancien camarade d'académie et amateur d'occulte.
 
 Tressa Fallenpie, Halfling, Mage (Evocation), une archiviste à la bibliothèque de l'académie.
-
-??? de Lisarenne (meilleure amie)
 
 ### Alliés et Affiliations
 Académie arcanique de Tricaren (en qualité d'ancienne élève).
@@ -134,8 +132,9 @@ graph TD
     PdL_x_GdL --> EdL[Emile de Lisarenne] --- EdL_x_YdL{{Mariage}}
     YdL[Yonnah de Lisarenne] --- EdL_x_YdL
 
-    EdL_x_YdL --> MdL[Mevola de Lisarenne]
-    EdL_x_YdL --> ?dL[??? de Lisarenne]
+    EdL_x_YdL --> MdL[Mevola de Lisarenne] --- MdL_x_AM{{Romance}}
+    
+    AM[Aolis Miséliandre] --- MdL_x_AM
 ```
 
 ## Citations
