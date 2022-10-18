@@ -1,5 +1,5 @@
 #Personnage/Mortel
 
-![[candrine.png]]
+![[Candrine.png]]
 
 Amie, amoureuse et amante d'[[Iksana Vinaya]].

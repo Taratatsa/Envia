@@ -56,3 +56,6 @@ graph TD
 ![[Forme Mortelle.png]]
 
 ## Anecdotes
+
+Il a un jour vu des pirates aborder un navire et, depuis, porte un tricorne. Pourquoi ? Parce que les tricornes, **c'est cool** !
+Ses offrandes préférées sont le pop-corn et le chocolat chaud à la vanille.

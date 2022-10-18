@@ -1,4 +1,4 @@
-#Personnage/Immortel
+#Personnage/Mortel 
 #CompagnieDuChaos 
 
 # Iksana Vinaya
