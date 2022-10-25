@@ -16,6 +16,7 @@
 ### Naissance
 ### Décès
 ### Résidence
+[[Monde féérique]] (anciennement)
 ### Occupation
 
 ## Histoire

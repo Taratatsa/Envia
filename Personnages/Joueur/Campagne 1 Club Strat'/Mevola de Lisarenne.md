@@ -43,8 +43,8 @@ Vivante
 
 ### Résidence
 Les routes
-Domaine De Lisarenne, Landgrave de Falefone, Empire Kinfordien (occasionel)
-Académie arcanique de Tricaren, Empire Kinfordien (anciennement)
+Domaine De Lisarenne, Landgrave de Falefone, [[Empire Kinfordien]] (occasionel)
+Académie arcanique de Tricaren, [[Empire Kinfordien]] (anciennement)
 
 ### Occupation
 Barde, Aventurière, Héritière, Savante

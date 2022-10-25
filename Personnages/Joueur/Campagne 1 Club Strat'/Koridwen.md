@@ -16,6 +16,7 @@
 ### Naissance
 ### Décès
 ### Résidence
+[[Royaume Whitfordien]]
 ### Occupation
 
 ## Histoire

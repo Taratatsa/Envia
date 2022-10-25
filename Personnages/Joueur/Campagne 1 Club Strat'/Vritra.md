@@ -16,6 +16,7 @@
 ### Naissance
 ### Décès
 ### Résidence
+Gorge d'un dragon noir (anciennement)
 ### Occupation
 
 ## Histoire

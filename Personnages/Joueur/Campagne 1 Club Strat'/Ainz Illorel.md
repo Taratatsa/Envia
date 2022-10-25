@@ -16,6 +16,7 @@
 ### Naissance
 ### Décès
 ### Résidence
+[[Diarchie de Baram]] (anciennement)
 ### Occupation
 
 ## Histoire

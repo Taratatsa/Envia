@@ -16,6 +16,7 @@
 ### Naissance
 ### Décès
 ### Résidence
+[[Empire Kinfordien]] (anciennement)
 ### Occupation
 
 ## Histoire
