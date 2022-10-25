@@ -1,1 +1,0 @@
-!dungeonalchemist {"walls":[],"lights":[],"pixelsPerTile":72,"grid":{"x":52,"y":52}}
