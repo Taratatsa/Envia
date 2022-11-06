@@ -29,6 +29,7 @@
 ### Relations amoureuses
 ### Amis
 ### Alliés et Affiliations
+### Foi
 ### Ennemis
 ### Autres relations
 
