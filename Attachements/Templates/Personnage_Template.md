@@ -1,7 +1,5 @@
 #Personnage 
 
-# {{title}}
-
 ## Informations personnelles
 ### Nom Complet
 ### Pronoms
