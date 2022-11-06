@@ -57,18 +57,18 @@ Poussez sur la voix du paladin de l'héroïsme.
 ## Arbre Généalogique
 ```mermaid
 graph TD
-    MA[Matrvat Anastrianna] --> MAxAS( )
+    MA[Matrvat Anastrianna] --> MAxAS{{Mariage}}
     AS[Arannis Siannodel] --> MAxAS
 
     MAxAS --> BM[Bonté Matrvat]
 
-	BM --> BMxS1( )
-    S1[Compagnon de Bonté Matrvat] --> BMxS1
+	BM --> BMxEB( )
+    EB[Epaline Brymoira] --> BMxEB{{Mariage}}
     
-    BMxS1 --> VB[Vinaya Bonté]
+    BMxEB --> VB[Vinaya Bonté]
 
 	VB --> VBxH( )
-    H[Hadriel] --> VBxH
+    H[Hadriel] --> VBxH{{Mariage}}
 
 	VBxH --> AV[Avemya Vinaya]
 	VBxH --> IV[Iksana Vinaya]

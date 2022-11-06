@@ -70,6 +70,25 @@ Il arrive à obtenir le meilleur d'autrui rien que par son aura protectrice.
 [[Avemya Vinaya]] (Fille)
 [[Iksana Vinaya]] (Fille)
 
+```mermaid
+graph TD
+    MA[Matrvat Anastrianna] --> MAxAS{{Mariage}}
+    AS[Arannis Siannodel] --> MAxAS
+
+    MAxAS --> BM[Bonté Matrvat]
+
+	BM --> BMxEB( )
+    EB[Epaline Brymoira] --> BMxEB{{Mariage}}
+    
+    BMxEB --> VB[Vinaya Bonté]
+
+	VB --> VBxH( )
+    H[Hadriel] --> VBxH{{Mariage}}
+
+	VBxH --> AV[Avemya Vinaya]
+	VBxH --> IV[Iksana Vinaya]
+```
+
 ### Alliés et Affiliations
 [[Église du Crépuscule]]
 ### Ennemis

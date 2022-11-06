@@ -85,16 +85,18 @@ Il n'y eut pas un seul survivant.
 Bonté sortit de la base, encore recouverte de sang et de son manteau de flammes et ainsi naquit "la tornade de sang et de feu".
 À présent, son nom n'avait aucune importance, le monde savait que dès lors qu'ils voyaient une femme au manteau de flamme aux yeux oranges, ils subiraient la fureur d'une divinité.
 
-Après un siècle entier de missions, de batailles et de victoires, Bonté fut relevé de ses fonctions et put entamer cette vie paisible qu'elle attendait.
+Après un siècle entier de missions, de batailles et de victoires, Bonté fut relevé de ses fonctions et put entamer cette vie paisible qu'elle attendait, mais elle décida de continuer les batailles par patriotisme.
 
 Bonté commença ainsi une nouvelle vie, son identité, qui inspirait terreur chez l'ennemi et espoir chez l'allié, résonna encore dans les plaines.
-Elle trouva un compagnon qui l'accepta pour qui elle était. Avec lui, elle fonda une famille.
+Elle trouva une compagne du nom d'Epaline Brymoira qui l'accepta pour qui elle était. Avec elle, elle fonda une famille.
 Bonté décida de garder la même méthode de nom que sa mère, l'idée qu'une famille puisse prospérer sans être impacté par les actes d'un parent et permettre à la progéniture de ne pas subir la pression d'être comparée sans cesse à un ancêtre lui plaisait.
 
 C'est ainsi qu'elle nomma sa fille, Vinaya Bonté.
 
-Hélas, quelques dizaines d'années après la naissance, le mari décéda tragiquement pendant une des nombreuses batailles.
-Cet incident poussa Bonté à reprendre les armes et reprendre son serment pour le roi.
+Hélas, quelques dizaines d'années après la naissance, Epaline en avait plus que marre que sa femme ne soit jamais là pour s'occuper de leur enfant, elle décida de la quitter et de partir loin dans le plan féérique.
+Bonté passa enfin à la retraite pour s'occuper de sa fille Vinaya.
+
+C'est alors que bien des années plus tard, elle apprit que sa petite fille, Iksana, était recherché dans l'empire Kinfordien, cette nouvelle fut un élan de motivation pour la femme qui décida de reprendre son serment pour le roi de Whiteford et de repartir sur les champs de batailles.
 ## Description
 ### Apparence
 Bonté est une grande tieffeline et large par sa musculature des plus impressionnantes.
@@ -130,18 +132,18 @@ Le roi de Whitford
 ## Arbre Généalogique
 ```mermaid
 graph TD
-    MA[Matrvat Anastrianna] --> MAxAS( )
+    MA[Matrvat Anastrianna] --> MAxAS{{Mariage}}
     AS[Arannis Siannodel] --> MAxAS
 
     MAxAS --> BM[Bonté Matrvat]
 
-	BM --> BMxS1( )
-    S1[Compagnon de Bonté Matrvat] --> BMxS1
+	BM --> BMxEB( )
+    EB[Epaline Brymoira] --> BMxEB{{Mariage}}
     
-    BMxS1 --> VB[Vinaya Bonté]
+    BMxEB --> VB[Vinaya Bonté]
 
 	VB --> VBxH( )
-    H[Hadriel] --> VBxH
+    H[Hadriel] --> VBxH{{Mariage}}
 
 	VBxH --> AV[Avemya Vinaya]
 	VBxH --> IV[Iksana Vinaya]
