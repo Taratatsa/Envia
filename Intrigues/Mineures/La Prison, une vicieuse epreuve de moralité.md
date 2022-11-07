@@ -1,6 +1,8 @@
 #Intrigue/Mineure 
 #Compagnie5Get1C 
 
+Quête personnelle d'[[Eclipse]]
+
 ## Idées/Synopsis
 
 Un jour, pour trouver des informations à propos de leur quête, les héros doivent interroger un des prisonniers de la prison de l'[[Empire Kinfordien]].

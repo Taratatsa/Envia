@@ -1,4 +1,6 @@
 #Intrigue/Majeure
+#CompagnieDuChaos 
+
 # La Contrée Nécrotique
 ## Idée
 Gretaushal, anciennement Rolekai Sitrael. Nécromancien, Arche-liche. Phylactère : Claustra de porcelaine en forme de petit cœur humain, brillant d'une lumière blanche pure, au rythme d'un battement de cœur.

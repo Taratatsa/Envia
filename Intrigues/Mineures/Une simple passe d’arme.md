@@ -1,4 +1,5 @@
 #Intrigue/Mineure
+
 # Une simple passe d'arme
 Le groupe est engagé pour protéger un convoi de navires, contenant des objets précieux dans l’effort de guerre continu contre les armées de \[danger planétaire\].
 

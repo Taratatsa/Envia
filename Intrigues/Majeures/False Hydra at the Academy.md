@@ -1,4 +1,5 @@
 #Intrigue/Majeure
+#CompagnieDuChaos 
 # False Hydra at the Academy
 Note supplémentaire : Arc perso de [[Erd, du clan des Disciples Rejetés|Erd]]
 

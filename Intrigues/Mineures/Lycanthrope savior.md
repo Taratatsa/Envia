@@ -1,4 +1,5 @@
 #Intrigue/Mineure
+#CompagnieDuChaos 
 # Lycanthrope savior
 Arc perso lycanthropes, incluant [[Mordecai Noname|Mordecai]] + [[Namemei aux Écailles d'Or|Namemei]]
 

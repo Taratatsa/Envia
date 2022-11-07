@@ -1,5 +1,6 @@
 #Intrigue/Majeure
-# Les Amantes Maudites
+#CompagnieDuChaos 
+
 Arc perso d’[[Iksana Vinaya|Iksana]]
 
 ## Synopsis

@@ -1,5 +1,6 @@
 #Intrigue/Majeure
-# Un fermier qui n'en est plus un
+#CompagnieDuChaos 
+
 Un jour, un fermier de retour chez lui découvre que tout ce qui faisait sa joie et son bonheur dans la vie s'est envolé. Ses plantations ont brûlées, son troupeau a été égorgé, les corps et les fragments de sa vie détruite sont éparpillés çà et là. Tout ce qu'il lui était cher à son cœur, lui a été dérobé. Ses enfants.
 
 On ne peut qu' imaginer la profondeur du désespoir, les heures vouées aux innombrables  lamentations, le poids infernal d'une telle existence. Il se fait une promesse à lui-même dans la tourmente de ses heures sombres.
