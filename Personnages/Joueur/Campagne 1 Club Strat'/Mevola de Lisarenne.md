@@ -97,13 +97,17 @@ Yonnah de Lisarenne (Mère)
 
 Soeur imaginaire
 
+Galadrea de Lisarenne (Grand-mêre, décédée)
+
+Pyron de Lisarenne (Grand-père, décédée)
+
 ### Relations amoureuses
 Aolis Miséliandre (Partenaire romantique, anciennement)
 
 ### Amis
 Anémone Tirenbout, Mage (Transmutation), ancienne camarade d'académie et musicienne à ses heures perdues.
 
-William de Lotwatch, Warlock, ancien camarade d'académie et amateur d'occulte.
+William de Lotwatch, Warlock (Great Old One Pact of the Tome), ancien camarade d'académie et amateur d'occulte.
 
 Tressa Fallenpie, Halfling, Mage (Evocation), une archiviste à la bibliothèque de l'académie.
 
@@ -118,7 +122,7 @@ Empire Kinfordien (noble mineure)
 Royaumme de Whiteford (en qualité de noble de l'Empire)
 
 ### Autres relations
-Malicieux (Barde avec qui elle a entretenu une petite rivalité)
+Malicieux (Barde avec qui elle a entretenu une petite rivalité, originaire des colonies)
 
 Aolis Miséliandre, sa servante lorsqu'elle vivait au chateau.
 
@@ -127,7 +131,7 @@ Aolis Miséliandre, sa servante lorsqu'elle vivait au chateau.
 graph TD
 	PdL[Pyron de Lisarenne] --- PdL_x_GdL{{Mariage}}
 	
-    ?[...] --- ?_x_?(?) --> GdL[Galadrea de Lisarenne] --- PdL_x_GdL
+    ?[...] --- ?_x_?(Enfante) --> GdL[Galadrea de Lisarenne] --- PdL_x_GdL
 
     PdL_x_GdL --> EdL[Emile de Lisarenne] --- EdL_x_YdL{{Mariage}}
     YdL[Yonnah de Lisarenne] --- EdL_x_YdL
