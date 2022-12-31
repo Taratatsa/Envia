@@ -32,3 +32,6 @@ Les pièces mutualisées, elle permettent à leur utilisateur de contrôler impe
 - Relancer un D20 avant que le résultat du test ne soit déterminé. L'utilisateur devra alors utiliser le nouveau jet, quel qu'en soit le résultat. Cet effet n'est pas cumulable.
 - Maximiser <u>un</u> dé de dégâts après son lancer. (On vous voit, les lanceurs de sorts !)
 - Modifier légèrement la situation actuelle. Attention, modifier la réalité peut entraîner des conséquences imprévues !
+
+Attention : Dithos vous prête un peu de son pouvoir, qu'il s'agisse d'une balance initiale positive ou d'un juste retour des choses après, on peu le dire, un abus de pouvoir. Mais il s'agit aussi pour lui de l'occasion d'ajouter un peu de piment aux histoires qu'il contera à ses co-divinités !
+Ainsi, les pièces utilisées par un parti rejoindront la réserve de l'autre.
