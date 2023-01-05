@@ -12,10 +12,10 @@ On additionne le modificateur de la capacité impliquée et on observe le résul
 
 ## Blessures persistantes
 Les combats sont une part importante du travail de mercenaire et d'aventuriers. Et une grande part des combats, ce sont les marques qu'ils vous laissent. Certaines ne sont qu'éraflure, superficielles écorchures et légères entailles.
-Mais quand viennent réellement les ennuis... qui sait quel partie de peau vous y laisserez ?
+Mais quand viennent réellement les ennuis… qui sait quel partie de peau vous y laisserez ?
 
 Une créature peut subir une blessure persistante lorsqu'elle :
-- Subit un coup critique ;
+- Subit un coup critique (soumis à confirmation) ;
 - Tombe en dessous 0 points de vie mais ne meurt pas sur le coup ;
 - Échoue un jet de sauvegarde contre la mort par 5 ou plus ;
 - Roule un 1 naturel à un jet de sauvegarde contre un effet de sort, de piège ou magique lui infligeant des dégâts.

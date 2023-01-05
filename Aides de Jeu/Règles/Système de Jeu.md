@@ -35,3 +35,14 @@ Les pièces mutualisées, elle permettent à leur utilisateur de contrôler impe
 
 Attention : Dithos vous prête un peu de son pouvoir, qu'il s'agisse d'une balance initiale positive ou d'un juste retour des choses après, on peu le dire, un abus de pouvoir. Mais il s'agit aussi pour lui de l'occasion d'ajouter un peu de piment aux histoires qu'il contera à ses co-divinités !
 Ainsi, les pièces utilisées par un parti rejoindront la réserve de l'autre.
+
+## Le Repos
+
+Les mercenaires les plus aguerris ont généralement l'habitude de se reposer. Cependant, tout un chacun a ses limites concernant les compromis qu'il est prêt à faire sur son confort.
+
+Ainsi, un aventurier pourra prendre un temps de repos normal quand il profitera d'un confort au moins égal à son style de vie.
+Ces temps sont de 1 heure pour un repos court et 8 heures pour un repos long.
+
+En deça de son style de vie, un repos court nécessitera 8 heures de repos, tandis qu'un repos long demandera 7 jours de repos pour être effectif. L'aventurier devra de plus réussir un jet de Constitution (Survie) ou de Sagesse (Survie) dont le DC sera 5 fois la différence de niveaux de style de vie.
+
+Au dessus de son style de vie, un aventurier peut profiter d'un repos dans un temps normal ainsi que d'un DV supplémentaire par niveau de vie de différence, utilisable pour regagner des PV pour un repos court, et cumulable avec les DV récupérés ou utilisable pour acquérir des PV temporaires dans le cadre d'un repos long.
