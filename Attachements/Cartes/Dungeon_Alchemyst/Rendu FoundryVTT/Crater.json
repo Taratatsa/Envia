@@ -1,0 +1,28 @@
+{
+  "name": "Crater",
+  "width": 7800,
+  "height": 7800,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.6,
+  "lights": [
+    {
+      "x": 2933,
+      "y": 3202,
+      "dim": 25.0,
+      "bright": 12.5,
+      "tintColor": "#FF9A00",
+      "tintAlpha": 0.0
+    }
+  ],
+  "walls": [],
+  "img": null,
+  "foreground": null
+}
