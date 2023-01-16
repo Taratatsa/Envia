@@ -67,8 +67,8 @@ Cela fait maintenant 7 ans qu’elle voyage. Elle passe régulièrement visiter 
 
 ### La vérité
 Il y a bien des années, une femme, alors dévouée à Thaena et destinée à faire de grandes avancées magiques et technologiques, a repoussé ce don en faveur d'une humble vie d'artiste. Cela a provoqué le courroux de [[Thaena]], la déesse de la Connaissance, dont elle était l'âme la plus prometteuse à ce jour.
-Pour la punir, à sa mort, elle la fit réincarner en une tiefelin née de parents humains.
-Elle vécut certes une enfance heureuse, durant laquelle elle développa une relation romantique avec l'une des jeunes filles de la cour, Aolis Miséliandre qui avait son âge, mais lors de son 18ème anniversaire, de faux souvenir lui furent implantés, la convainquant qu’elle avait grandi non pas en compagnie de celle-ci, mais d'une soeur jumelle.
+Pour la punir, à sa mort, elle la fit réincarner en une tieffeline née de parents humains.
+Elle vécut certes une enfance heureuse, durant laquelle elle développa une relation romantique avec l'une des jeunes filles de la cour, [[Aolis Miséliandre]], qui avait son âge, mais lors de son 18ème anniversaire, de faux souvenir lui furent implantés, la convainquant qu’elle avait grandi non pas en compagnie de celle-ci, mais d'une soeur jumelle.
 Le reste de sa vie ne sera alors que tourment, comme sa vie précédente. En effet, ce cycle dure depuis des siècles et, chaque fois, la tortionnaire se montrent très créatifs pour concocter des façon toujours plus originales de faire de son existence un enfer. Aujourd'hui, c'est sa soeur qui n'existe pas, ayant supplanté dans son esprit Aolis, sa servante, qu'elle aimait tendrement. Mevola pourra-elle briser la malédiction, ou connaitre les origines de celle-ci ?
 
 ## Description

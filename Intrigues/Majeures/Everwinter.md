@@ -1,4 +1,4 @@
-#Intrigue 
+#Intrigue/Mineure  
 
 ## Idées/Synopsis
 
