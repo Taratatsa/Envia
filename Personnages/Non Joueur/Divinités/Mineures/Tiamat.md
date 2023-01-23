@@ -10,7 +10,7 @@ Elle/Elle
 ### Titres
 ### Alias
 ### Type de créature
-[[Espèces#Dragons|Dragon]]
+[[Dragons|Dragon]]
 ### Race
 Dragon Chromatique
 ### Classe %%(le cas échéant)%%
@@ -48,11 +48,14 @@ Les dragons chromatiques (enfants) :
 
 ## Arbre Généalogique
 ```mermaid
-graph TD
-    ?[?] --> ?x!( )
-    ![!] --> ?x!
+graph TB
+    Tiamat[Tiamat] --> Prim{{Enfante}}
 
-    ?x! --> ?![?!]
+    Prim --> Sirgraem
+    Prim --> Acrithric
+    Prim --> Ezalkorral
+    Prim --> Zothnidavomaun
+    Prim --> Sivis
 ```
 
 ## Citations

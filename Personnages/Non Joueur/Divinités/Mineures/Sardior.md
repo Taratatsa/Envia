@@ -47,11 +47,14 @@ Les dragons de gemmes (enfants) :
 
 ## Arbre Généalogique
 ```mermaid
-graph TD
-    ?[?] --> ?x!( )
-    ![!] --> ?x!
+graph TB
+    Sardior[Sardior] --> Prim{{Enfante}}
 
-    ?x! --> ?![?!]
+    Prim --> Aleithilithos
+    Prim --> Hrodel
+    Prim --> Smargad
+    Prim --> Charsima
+    Prim --> Tithonnas
 ```
 
 ## Citations

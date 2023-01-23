@@ -47,11 +47,14 @@ Les dragons métalliques (enfants) :
 
 ## Arbre Généalogique
 ```mermaid
-graph TD
-    ?[?] --> ?x!( )
-    ![!] --> ?x!
+graph TB
+    Bahamut[Bahamut] --> Prim{{Enfante}}
 
-    ?x! --> ?![?!]
+    Prim --> Tagnoduth
+    Prim --> Cistillalnam
+    Prim --> Nidelese
+    Prim --> Visiroarras
+    Prim --> Darhodo
 ```
 
 ## Citations

@@ -35,8 +35,8 @@
 
 ## Arbre Généalogique
 ```mermaid
-graph TD
-    ?[?] --> ?x!( )
+graph TB
+    ?[?] --> ?x!{{?x!}}
     ![!] --> ?x!
 
     ?x! --> ?![?!]
