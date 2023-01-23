@@ -1,4 +1,4 @@
-#Personnage/Mortel 
+#Personnage/Mortel [[Mortel]]
 
 Apparence :
 ![[Attachements/PC/Une Angélique Errance/Somnia/Avatar.jpg]]

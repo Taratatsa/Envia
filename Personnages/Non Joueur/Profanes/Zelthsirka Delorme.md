@@ -1,4 +1,4 @@
-#Personnage/Immortel
+#Personnage/Immortel [[Immortel]]
 
 Vêtements :
 ![[Zelthsirka Clothes-Token.png]]

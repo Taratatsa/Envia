@@ -1,4 +1,4 @@
-#PanthéonKinfordien
+#Divinité/Panthéon-Kinfordien [[Panthéon Kinfordien]] 
 
 Forme démoniaque :
 ![[Attachements/NPC/Divinités/Evil/Ar'athar, Démon du Feu/Forme_démoniaque.jpg]]

@@ -1,4 +1,4 @@
-#Personnage/Mortel
+#Personnage/Mortel [[Mortel]]
 #CompagnieDuChaos 
 
 # Namemei aux Écailles d'Or

@@ -1,4 +1,4 @@
-#PanthéonNomade
+#Divinité/Panthéon-Nomade [[Panthéon Nomade]] 
 
 # Hytix
 Hytix is a highly praised and deeply esteemed goddess. Food, night and nature are very important elements this divine being is associated with and most would regard her as imaginative and monstrous.  

@@ -1,4 +1,4 @@
-#Lore
+#Document
 
 # Journal d'une Angélique Errance
 

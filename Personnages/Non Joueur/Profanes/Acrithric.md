@@ -1,4 +1,4 @@
-#Personnage/Dragon 
+#Personnage/Dragon  [[Dragon]]
 
 ## Informations personnelles
 ### Nom Complet

@@ -1,5 +1,5 @@
-#PanthéonKinfordien 
-#PanthéonElfique
+#Divinité/Panthéon-Kinfordien [[Panthéon Kinfordien]] 
+#Divinité/Panthéon-Elfique [[Panthéon Elfique]]
 
 ![[Covered.jpg]]
 ![[Uncovered.jpg]]

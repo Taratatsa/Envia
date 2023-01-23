@@ -1,4 +1,4 @@
-#Personnage/Mortel
+#Personnage/Mortel [[Mortel]]
 #CompagnieDuChaos 
 
 # Erd, du clan des Disciples Rejetés

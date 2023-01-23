@@ -1,5 +1,5 @@
 #Intrigue/Majeure 
-#Compagnie5Get1C 
+#Compagnie-Douze [[Compagnie Douze]] 
 
 Quête personnelle de [[Mevola de Lisarenne]]
 

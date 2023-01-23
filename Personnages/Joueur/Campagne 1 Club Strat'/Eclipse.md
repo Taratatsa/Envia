@@ -1,5 +1,5 @@
-#Personnage/Mortel 
-#Compagnie5Get1C
+#Personnage/Mortel [[Mortel]]
+#Compagnie-Douze [[Compagnie Douze]]
 
 # Eclipse
 
@@ -16,7 +16,7 @@
 ### Naissance
 ### Décès
 ### Résidence
-[[Empire Kinfordien]] (anciennement)
+Oldforthill, [[Empire Kinfordien]] (anciennement)
 ### Occupation
 
 ## Histoire

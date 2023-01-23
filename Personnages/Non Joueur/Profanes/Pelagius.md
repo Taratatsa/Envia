@@ -1,4 +1,4 @@
-#Personnage/Mortel 
+#Personnage/Mortel [[Mortel]]
 
 Fort caractère, poing de fer, bon camarade
 

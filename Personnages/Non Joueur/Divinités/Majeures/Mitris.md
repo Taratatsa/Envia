@@ -1,4 +1,4 @@
-#PanthéonKinfordien
+#Divinité/Panthéon-Kinfordien [[Panthéon Kinfordien]] 
 
 ![[Mitris.jpg]]
 

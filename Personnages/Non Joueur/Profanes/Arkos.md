@@ -1,4 +1,4 @@
-#Personnage/Mortel 
+#Personnage/Mortel [[Mortel]]
 
 14 ans, jeune, arrivé à 10 ans au sein de l'[[Église du Crépuscule]].
 

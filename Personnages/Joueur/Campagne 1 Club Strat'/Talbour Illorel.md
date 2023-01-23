@@ -1,5 +1,5 @@
-#Personnage/Mortel 
-#Compagnie5Get1C 
+#Personnage/Mortel [[Mortel]]
+#Compagnie-Douze [[Compagnie Douze]] 
 
 # Talbour Illorel
 

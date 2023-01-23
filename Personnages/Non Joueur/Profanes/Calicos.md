@@ -1,4 +1,4 @@
-#Personnage/Mortel 
+#Personnage/Mortel [[Mortel]]
 Chef de l'[[Église du Crépuscule]], successeur de [[Xantho]].
 
 1er des 3 grands pontes de l'[[Église du Crépuscule]], avec [[Pelagius]] et [[Arkos]].

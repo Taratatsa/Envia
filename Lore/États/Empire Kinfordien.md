@@ -1,2 +1,2 @@
-#État 
+#Géographie/État 
 Empire dont la capitale est [[Tricaren]]

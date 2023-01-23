@@ -1,4 +1,4 @@
-#PanthéonUniversel
+#Divinité/Panthéon-Universel [[Panthéon Universel]] 
 
 # Dithos
 

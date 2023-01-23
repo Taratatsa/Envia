@@ -1,5 +1,5 @@
-#Personnage/Dragon 
-#PanthéonDraconique
+#Personnage/Dragon  [[Dragon]]
+#Divinité/Panthéon-Draconique [[Panthéon Draconique]]
 
 ## Informations personnelles
 ### Nom Complet

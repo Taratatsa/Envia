@@ -1,4 +1,4 @@
-#PanthéonKinfordien
+#Divinité/Panthéon-Kinfordien [[Panthéon Kinfordien]] 
 
 ![[Forme_Angélique.jpg]]
 

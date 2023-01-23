@@ -1,1 +1,1 @@
-#Personnage/Mortel 
+#Personnage/Mortel [[Mortel]]

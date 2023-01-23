@@ -1,5 +1,5 @@
 #Intrigue/Mineure 
-#Compagnie5Get1C 
+#Compagnie-Douze [[Compagnie Douze]] 
 
 Quête personnelle d'[[Eclipse]]
 
