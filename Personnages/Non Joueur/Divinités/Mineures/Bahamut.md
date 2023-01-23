@@ -31,6 +31,13 @@ Dragon de Platine
 
 ## Relations
 ### Famille
+Les dragons métalliques (enfants) :
+	- [[Tagnoduth]], le dragon d'or
+	- [[Cistillalnam]], le dragon d'argent
+	- [[Nidelese]], le dragon d'airain
+	- [[Visiroarras]], le dragon de bronze
+	- [[Darhodo]], le dragon de cuivre
+
 ### Relations amoureuses
 ### Amis
 ### Alliés et Affiliations

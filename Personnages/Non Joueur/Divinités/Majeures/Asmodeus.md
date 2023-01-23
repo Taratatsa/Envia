@@ -1,4 +1,5 @@
 #Divinité/Panthéon-Kinfordien [[Panthéon Kinfordien]] 
+#Divinité/Dieux-Traitres [[Dieux Traitres]]
 
-Seigneur des Mensonges
-Chaotic Evil
+Seigneur des Mensonges et d'[[Auguristous]]
+Lawful Evil

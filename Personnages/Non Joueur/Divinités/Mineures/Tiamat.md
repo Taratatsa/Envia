@@ -32,6 +32,13 @@ Dragon Chromatique
 
 ## Relations
 ### Famille
+Les dragons chromatiques (enfants) :
+	- [[Sirgraem]], le dragon rouge
+	- [[Acrithric]], le dragon blanc
+	- [[Ezalkorral]], le dragon bleu
+	- [[Zothnidavomaun]], le dragon noir
+	- [[Sivis]], le dragon vert
+
 ### Relations amoureuses
 ### Amis
 ### Alliés et Affiliations

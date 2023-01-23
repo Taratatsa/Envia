@@ -1,5 +1,8 @@
 #Divinité/Panthéon-Orc [[Panthéon Orc]]
 #Divinité/Dieux-Traitres [[Dieux Traitres]]
 
-Dieu des peuples Orcs
+Dieu des peuples Orcs, Seigneur de la Destruction
 Chaotic Evil
+
+Combattant les divinités elfiques du [[Deuxième Âge]], son sang répandu sur le champ de bataille corrompit des elfes, donnant naissance aux [[Orcs]]
+Réside dans le [[Bellenium]]
