@@ -10,3 +10,5 @@ Bien que sa rebellion fusse réprimée, Agnamar demeura introuvable. Les peuples
 Aidé de ceux qui autrefois pillaient les terres revendiquées par l’Empereur, ses rangs renforcés par le peuple opprimé, il reconquit les terres jusqu’à la province d’Hertia, aujourd’hui encore disputée, scindée en deux par les [[Portes du Nord]].
 
 Nous sommes aujourd'hui en 795 de l'ère Kinford. La frontière stagne, [[Whitford]] s'est de nouveau libérée, bien qu'encerclée.
+
+Et des rumeurs commencent à circuler. Des rumeurs concernant [les méthodes du roi](https://www.youtube.com/watch?v=ok80VsRDOAI&ab_channel=MAGOYOND "MAGOYOND - SOYEZ PRÊTES [Le Roi Lion] - NECROPOLIS")

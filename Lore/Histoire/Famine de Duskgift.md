@@ -1,0 +1,3 @@
+Lors du passage de la [[Compagnie du Chaos]] à [[Duskgift]], [[Erd, du clan des Disciples Rejetés|Erd]] fit exploser le conseillé du baron et le chariot diplomatique contenant, entre autres, les avis de recherche de la compagnie en fuite ainsi que des accords commerciaux d'urgence (conséquence de la destruction du navire marchand par cette même compagnie).
+
+La destruction, avant signature par le baron, de ces accords empêcha l'import de vivres et de munitions au sein des colonies, provoquant la famine et, plus tard, l'invasion des colonies par la [[Fédération Nécromancienne]].

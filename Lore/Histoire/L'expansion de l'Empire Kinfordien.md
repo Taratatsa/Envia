@@ -1,4 +1,13 @@
 #Histoire/ÉvénementsHistoriques
+<span 
+	  class='ob-timelines' 
+	  data-date='-2-00-00-00' 
+	  data-title="Expansion de l'Empire Kinfordien"
+	  data-class='backgroundTest' 
+	  data-type='background'
+	  data-end='86-00-00-00'> 
+	Expansion de l'Empire Kinfordien
+</span>
 
 L'expansion de l'[[Empire Kinfordien]] débuta en l'an de grâce -2 de l'ère Kinford.
 À l'époque, le continent d'[[Envia]] était divisé entre les différents peuples humanoïdes, dont la quasi-totalité étaient unifiés. Seuls demeuraient les humains, toujours séparés en divers tribues, différents clans...
