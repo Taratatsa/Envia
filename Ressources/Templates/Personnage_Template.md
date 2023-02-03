@@ -1,4 +1,4 @@
-#Personnage 
+#Personnage [[Personnage]]
 
 ## Informations personnelles
 ### Nom Complet
