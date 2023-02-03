@@ -1,5 +1,5 @@
 # Session n°7
-19/01/2023, 19:40–HH:M0
+19/01/2023, 19:00–23:00
 
 ## Préparation
 Next time, [[Talbour Illorel|Talbour]] makes worm go BOOM
