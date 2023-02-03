@@ -20,7 +20,7 @@
 
 “Tu as fait de toi une arme afin de ne pas avoir besoin de ressentir quoi que ce soit. Mais tu n’es pas une arme… Tu es mon frère !”
 
-“Lauralès ! Regarde ce que tu es devenu ! - Je suis devenu ce que je dois être…”
+“X ! Regarde ce que tu es devenu ! - Je suis devenu ce que je dois être…”
 
 “Ce ne sont pas les mensonges qui blessent… Mais le fil de la vérité.”
 
@@ -28,11 +28,19 @@
 
 "Dieu descend parmi nous~... Il est temps d'lui péter les g'noux~..."
 
-"C'est ça le trucs avec les amis, n'est-ce pas ? Plus vous les appréciez, plus ça blesse quand ils s'en vont... Laissez-moi vous en faire la démonstration !"
+"C'est ça le trucs avec les amis, n'est-ce pas ? Plus vous les appréciez, plus ça blesse quand ils s'en vont...
+Laissez-moi vous le démontrer !"
+*ou*
+Laissez-moi vous en faire la démonstration !"
+*ou*
+Démonstration !"
 
 "Qui sait, je pourrais peut-être vivre jusqu'à 100 ans.
 \- Qu'est-ce qui t'en empêcherait ?
 \- Notre carrière ?"
+
+"I'd die for you
+\- No no no, too simple... Too simple... Die for someone, that's so easy. You don't have to deal with the consequences ! No... Kill/Live for someone, that's more likely."
 
 ## Suicide
 
