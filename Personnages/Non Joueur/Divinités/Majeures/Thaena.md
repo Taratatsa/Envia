@@ -1,4 +1,4 @@
-#Divinité/Panthéon-Kinfordien [[Panthéon Kinfordien]] 
+#Personnage/Divinité/Panthéon-Kinfordien [[Panthéon Kinfordien]] 
 
 ![[Thaena.jpg]]
 

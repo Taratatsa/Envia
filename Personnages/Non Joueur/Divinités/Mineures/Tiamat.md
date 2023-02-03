@@ -1,6 +1,6 @@
 #Personnage/Dragon  [[Dragon]]
-#Divinité/Panthéon-Draconique [[Panthéon Draconique]]
-#Divinité/Dieux-Traitres [[Dieux Traitres]] 
+#Personnage/Divinité/Panthéon-Draconique [[Panthéon Draconique]]
+#Personnage/Divinité/Dieux-Traitres [[Dieux Traitres]] 
 
 ## Informations personnelles
 ### Nom Complet

@@ -1,5 +1,5 @@
-#Divinité/Panthéon-Orc [[Panthéon Orc]]
-#Divinité/Dieux-Traitres [[Dieux Traitres]]
+#Personnage/Divinité/Panthéon-Orc [[Panthéon Orc]]
+#Personnage/Divinité/Dieux-Traitres [[Dieux Traitres]]
 
 Dieu des peuples Orcs, Seigneur de la Destruction
 Chaotic Evil

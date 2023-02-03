@@ -1,4 +1,4 @@
-#Divinité/Panthéon-Nomade [[Panthéon Nomade]] 
+#Personnage/Divinité/Panthéon-Nomade [[Panthéon Nomade]] 
 
 # Hyraura
 Hyraura is a greatly celebrated and often feared goddess. Death, heritage and journey are the main three elements this divine being is associated with and she's often considered to be athletic and understanding.  

@@ -1,4 +1,4 @@
-#Divinité/Panthéon-Nomade [[Panthéon Nomade]] 
+#Personnage/Divinité/Panthéon-Nomade [[Panthéon Nomade]] 
 # Ryros
 Ryros is a vastly obeyed and often trusted god. Thunder, fortune and envy are very important elements this divine being is associated with and his personality is often described as difficult and cheerful.  
 Often depicted as tall, slender, young and bright Ryros is usually worshipped through oaths and gifts.  

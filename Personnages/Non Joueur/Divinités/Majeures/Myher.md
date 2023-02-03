@@ -1,4 +1,4 @@
-#Divinité/Panthéon-Nomade [[Panthéon Nomade]] 
+#Personnage/Divinité/Panthéon-Nomade [[Panthéon Nomade]] 
 # Myher
 Myher is a deeply glorified and vastly embraced god. Luck, growth and hospitality are the main three elements this divine being is associated with and his personality is often described as pretentious and treacherous.  
 Often depicted as incredibly tall, muscular, pretty and elegant Myher is usually worshipped through gifts and alms.  

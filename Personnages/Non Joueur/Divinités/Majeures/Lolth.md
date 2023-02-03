@@ -1,4 +1,4 @@
-#Divinité/Panthéon-Elfique [[Panthéon Elfique]]
-#Divinité/Dieux-Traitres [[Dieux Traitres]]
+#Personnage/Divinité/Panthéon-Elfique [[Panthéon Elfique]]
+#Personnage/Divinité/Dieux-Traitres [[Dieux Traitres]]
 
 Divinité des Drows et des arachnides

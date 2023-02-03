@@ -1,4 +1,4 @@
-#Divinité/Panthéon-Universel [[Panthéon Universel]] 
+#Personnage/Divinité/Panthéon-Universel [[Panthéon Universel]] 
 
 Représentation divine :
 ![[Attachements/NPC/Divinités/Neutral/Edos, Ange de la Vie et de la Mort/Forme_Divine.jpg]]
