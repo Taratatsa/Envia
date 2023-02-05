@@ -8,6 +8,7 @@ Il/Lui
 ### Titres
 ### Alias
 Le Rouge, surnom de brigand
+Karmush, surnom d'enfance
 ### Type de créature
 Humanoïde
 ### Race
