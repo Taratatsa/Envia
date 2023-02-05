@@ -18,7 +18,7 @@ Attaque de la cache des voleurs d'eau
 	  data-type='box'> 
 	Attaque de la cache des voleurs d'eau
 </span>
-Massacre des derniers gobelins et fuite d'[[Uzad le Rouge]]
+Massacre des derniers gobelins et fuite d'[[Uzad Idolstadh|Uzad "le Rouge"]]
 <span 
 	  class='ob-timelines' 
 	  data-date='898-05-14-11' 
