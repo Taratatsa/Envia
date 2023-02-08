@@ -5,5 +5,5 @@
 Nulle
 
 ## Déroulement
-[[Tagnoduth]], apprenant la présence de [[Zothnidavomaun]] dans [[Ynathyrwi]], part à sa recherche.
+[[Tagnoduth]], apprenant la présence de [[Zothnidavomaun]] dans [[Ynathyrwi]], part à sa recherche sous la forme de [[Sirgraem]].
 Mène à un combat avec le Vritra, dont la compagnie ne prend pas le parti.
