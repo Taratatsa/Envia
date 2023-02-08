@@ -1,7 +1,11 @@
 #Espèce [[Espèce]]
 
 Deux dragons suprêmes : [[Tiamat]] et [[Bahamut]], chacun dans leur plan d'existence.
-Un ancien dragon suprême, séparé en 3 : [[Sardior]], le dragon de rubis et ancêtre des dragons de gemmes.
+Un ancien dragon suprême, séparé en 3 : [[Sardior]], le dragon de rubis et ancêtre des dragons prismatiques.
+
+[[Duncan Dahmer]], Dragon suprême de Mithril, demeure neutre et vagabonde au sein des mondes.
+
+La plupart des dragons, au sein de leurs conflits, font usage d'esclaves, tels que de kobolds, des drakéides et des [Dragontouched](https://docs.google.com/document/d/1NfSl6lQCDI0J1zhewiu5-6IgzhbL49TE-as-rfG1Mjg/edit). ([Source](https://youtu.be/VnrEhEEJcKE?t=614))
 
 Une grande Wyrm de chaque couleur, ancêtre biologique et spirituel de tous les autres dragons de cette couleur :
 - Les dragons métalliques :
@@ -16,7 +20,7 @@ Une grande Wyrm de chaque couleur, ancêtre biologique et spirituel de tous les 
 	- [[Ezalkorral]], le dragon bleu
 	- [[Zothnidavomaun]], le dragon noir
 	- [[Sivis]], le dragon vert
-- Les dragons de gemmes :
+- Les dragons prismatiques :
 	- [[Aleithilithos]], le [dragon d'améthyste](https://www.dndbeyond.com/sources/ftod/bestiary#AmethystDragons)
 	- [[Hrodel]], le [dragon de cristal](https://www.dndbeyond.com/sources/ftod/bestiary#CrystalDragons)
 	- [[Smargad]], le [dragon d'émeraude](https://www.dndbeyond.com/sources/ftod/bestiary-ek#EmeraldDragons)
