@@ -17,7 +17,7 @@ Namemei aux Écailles d'Or (Surnom pirate)
 ### Race
 ### Classe %%(le cas échéant)%%
 ### Alignement
-### Status
+### Statut
 ### Naissance
 ### Décès
 ### Résidence

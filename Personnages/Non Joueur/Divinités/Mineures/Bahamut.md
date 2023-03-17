@@ -14,7 +14,7 @@ Il/Lui
 Dragon de Platine
 ### Classe %%(le cas échéant)%%
 ### Alignement
-### Status
+### Statut
 ### Naissance
 ### Décès
 ### Résidence

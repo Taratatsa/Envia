@@ -19,7 +19,7 @@ Harengon
 Echo Knight
 ### Alignement
 Chaotique Neutre
-### Status
+### Statut
 Vivant pour l'instant
 ### Naissance
 Une fois

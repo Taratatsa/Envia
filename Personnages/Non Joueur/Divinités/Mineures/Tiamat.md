@@ -15,7 +15,7 @@ Elle/Elle
 Dragon Chromatique
 ### Classe %%(le cas échéant)%%
 ### Alignement
-### Status
+### Statut
 ### Naissance
 ### Décès
 ### Résidence

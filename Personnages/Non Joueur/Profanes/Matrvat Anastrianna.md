@@ -22,7 +22,7 @@ Elfe du Soleil
 Niv 14 Magicienne de l'école de l'abjuration
 ### Alignement
 Loyal Neutre
-### Status
+### Statut
 Vivante
 
 ### Naissance

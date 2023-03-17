@@ -32,7 +32,7 @@ Occultiste du pacte de la lame maudite
 ### Alignement
 Loyal Neutre
 
-### Status
+### Statut
 Vivante
 
 ### Naissance

@@ -12,7 +12,7 @@ Tanin, nom donné par [[Vritra]] pendant sa métamorphose en pseudodragon
 ### Race
 ### Classe %%(le cas échéant)%%
 ### Alignement
-### Status
+### Statut
 ### Naissance
 ### Décès
 ### Résidence

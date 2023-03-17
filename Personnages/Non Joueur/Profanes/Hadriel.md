@@ -19,7 +19,7 @@ Aasimar (pour son entourage)
 Niv 20 Clerc (crépuscule)
 ### Alignement
 True Neutral
-### Status
+### Statut
 Inconnue
 
 ### Résidence

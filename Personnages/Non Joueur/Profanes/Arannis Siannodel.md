@@ -22,7 +22,7 @@ Elfe du Soleil
 Niv 14 Magicien école de l'Illusion
 ### Alignement
 Neutre Bon
-### Status
+### Statut
 Vivant
 
 ### Naissance

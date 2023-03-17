@@ -20,7 +20,7 @@ Tieffelin
 Magicienne de l'école de la divination
 ### Alignement
 Neutre Bon
-### Status
+### Statut
 Vivante
 ### Naissance
 Le 6 septembre 771 de l'ère Kinford, à Amangassuaq. 

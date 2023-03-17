@@ -13,7 +13,7 @@ Raghor Onyx
 ### Alignement
 Chaotique Mauvais
 
-### Status
+### Statut
 Vivant
 
 ### Naissance

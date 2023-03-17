@@ -21,7 +21,7 @@ Niv 6 (min) Sorcière du brasier éternel
 Niv ? Paladin de l'héroïsme
 ### Alignement
 Chaotique Bon
-### Status
+### Statut
 Vivante
 ### Naissance
 765 de l'ère Kinford

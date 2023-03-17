@@ -14,7 +14,7 @@ Iel/Elui
 Dragon de Rubis
 ### Classe %%(le cas échéant)%%
 ### Alignement
-### Status
+### Statut
 ### Naissance
 ### Décès
 ### Résidence

@@ -16,7 +16,7 @@ Dragon d'Or
 ### Classe %%(le cas échéant)%%
 Magicien
 ### Alignement
-### Status
+### Statut
 ### Naissance
 ### Décès
 ### Résidence

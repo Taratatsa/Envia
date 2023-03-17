@@ -10,7 +10,7 @@
 Elfe du Soleil, Augmenté
 ### Classe %%(le cas échéant)%%
 ### Alignement
-### Status
+### Statut
 ### Naissance
 ### Décès
 ### Résidence

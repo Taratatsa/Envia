@@ -32,7 +32,7 @@ Loyal Mauvais
 
 Pour Mevola, la fin justifie les moyens. Si elle doit sacrifier la moitié de l’humanité pour ramener sa soeur, elle le fera sans hésiter. Elle n’a aucune réticence à se servir de la torture, du chantage et/ou du meurtre mais n’agit dans ce sens que si elle estime que c’est nécessaire.
 
-### Status
+### Statut
 Vivante
 
 ### Naissance

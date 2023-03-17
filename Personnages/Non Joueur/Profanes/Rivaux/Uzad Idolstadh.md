@@ -18,7 +18,7 @@ Hobgoblin
 Barbare, Sentier de la Magie Sauvage
 ### Alignement
 Chaotic neutre
-### Status
+### Statut
 Vivant
 ### Naissance
 8 Closeporte 864 KE (34 ans)

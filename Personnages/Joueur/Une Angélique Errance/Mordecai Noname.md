@@ -16,7 +16,7 @@ Mordecai Noname
 ### Race
 ### Classe %%(le cas échéant)%%
 ### Alignement
-### Status
+### Statut
 ### Naissance
 ### Décès
 ### Résidence

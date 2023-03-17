@@ -16,7 +16,7 @@ Laethrandir, littéralement "Le Vagabond Perdu" (Surnom en Elfique)
 ### Classe %%(le cas échéant)%%
 ### Alignement
 True Neutral
-### Status
+### Statut
 ### Naissance
 ### Décès
 ### Résidence

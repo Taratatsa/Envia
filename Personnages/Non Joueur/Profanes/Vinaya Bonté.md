@@ -21,7 +21,7 @@ Tieffeline
 Niv 18 Sorcière du brasier éternel
 ### Alignement
 Neutre Bon
-### Status
+### Statut
 Vivante
 ### Naissance
 650 de l'ère Kinford

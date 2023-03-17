@@ -13,7 +13,7 @@ Drakéide d'améthyste
 ### Classe
 Barbare
 ### Alignement
-### Status
+### Statut
 ### Naissance
 ### Décès
 ### Résidence

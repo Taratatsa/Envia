@@ -20,7 +20,7 @@ Niv 14 Sorcière du Brasier éternel
 Niv 16 Paladin de l'Héroïsme
 ### Alignement
 Loyal Neutre
-### Status
+### Statut
 Vivante
 ### Naissance
 503 de l'ère Kinford
