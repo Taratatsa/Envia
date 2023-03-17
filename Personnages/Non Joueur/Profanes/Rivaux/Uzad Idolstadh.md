@@ -11,7 +11,7 @@ Il/Lui
 Le Rouge, surnom de brigand
 Karmush, surnom d'enfance
 ### Type de créature
-Humanoïde
+[[Goblinoïdes|Goblinoïde]]
 ### Race
 Hobgoblin
 ### Classe
@@ -56,6 +56,8 @@ Cela dura. Et dura. De longues années. Puis une décennie. Cela dura jusqu'à c
 Éliminant d'abord les lieutenants et les plus jeunes membres de l'organisation, c'est lors d'un raid punitif que les derniers membres de la nouvelle famille d'Uzad périrent aux mains des [[Compagnie Douze|Tessombres]].
 
 Jurant de se venger d'eux et de sa famille, Uzad entreprend aujourd'hui de réunir suffisamment de ressources pour ramener sa nouvelle famille à la vie, espérant pouvoir un jour se retirer sans regrets, loin de ce désert qui ne lui avait causé que souffrances et désespoir.
+
+En outre, l'incident impliquant la [[Compagnie Douze|compagnie de mercenaires Douze]] fit ressurgir en lui une rémanence de la [[Goblinoïdes#La malédiction de Vargas|malédiction de Vargas]], alimentant une propension nouvelle pour la violence et la mort. Bien qu'aujourd'hui sous contrôle, sa soif de sang reste difficilement sous contrôle, et le moindre accident pourrait vite prendre une tournure plus... Dramatique.
 
 ## Description
 ### Apparence
