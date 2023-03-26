@@ -1,5 +1,7 @@
 #Personnage/Mortel [[Mortel]]
 
+[Source](https://youtu.be/FqP2-afugl8?t=1200)
+
 ## Informations personnelles
 ### Nom Complet
 ### Pronoms
