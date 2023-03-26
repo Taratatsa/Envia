@@ -18,6 +18,6 @@ En l'an 5 de notre ère, son avancée fut stoppée par la première barrière na
 
 Développant les premiers navires destinés à des traversées longues de plus d'un jour, l'Empire envahi d'abord en guise d'essais militaires, les terres des peuples aujourd'hui connus comme les [[Tribus Manasiéennes]], s'emparant en l'an 24 de l'ère Kinford de l'intégralité de l'[[Île de Manasie]].
 
-Reprenant alors sa progression sur la [[Grande Île]], il fallut un choc pour jeter un froid—littéralement—sur la progression écrasante du premier empereur. C'est en effet à l'hiver de l'an 52 de notre ère que les tribues du nord se réunirent pour arrêter l'avancée de l'empire aux [[Portes du Nord]]. La ligne de défense tint pendant 3 décennies, durant lesquels chaque camp se fortifia, attendant que l'autre ne cède du terrain, avant que l'Empire ne lance sa dernière offensive.
+Reprenant alors sa progression sur la [[Grande Île]], il fallut un choc pour jeter un froid—littéralement—sur la progression écrasante du premier empereur. C'est en effet à l'hiver de l'an 52 de notre ère que les tribus du nord se réunirent pour arrêter l'avancée de l'empire aux [[Portes du Nord]]. La ligne de défense tint pendant 3 décennies, durant lesquels chaque camp se fortifia, attendant que l'autre ne cède du terrain, avant que l'Empire ne lance sa dernière offensive.
 
 C'est ainsi qu'en l'an 86 de l'ère Kinford, le premier empereur humain, à l'âge vénérable de 113 ans, régnait désormais sur l'ensemble des peuples humains sédentaires.
