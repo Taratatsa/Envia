@@ -202,7 +202,7 @@ Drow — Gallois
 ##### Dérivés elfiques
 Orc — Kurde (Kurmanji)
 Yuan-Ti — Japonais
-Halfling — Suedois
+Halfling — Suédois
 
 ##### Gnome
 Gnome — Polonais
