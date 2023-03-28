@@ -12,3 +12,5 @@ Aidé de ceux qui autrefois pillaient les terres revendiquées par l’Empereur,
 Nous sommes aujourd'hui en 795 de l'ère Kinford. La frontière stagne, [[Whitford]] s'est de nouveau libérée, bien qu'encerclée.
 
 Et des rumeurs commencent à circuler. Des rumeurs concernant [les méthodes du roi](https://www.youtube.com/watch?v=ok80VsRDOAI&ab_channel=MAGOYOND "MAGOYOND - SOYEZ PRÊTES [Le Roi Lion] - NECROPOLIS")
+
+Fin 862

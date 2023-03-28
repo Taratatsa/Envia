@@ -43,9 +43,9 @@ Suite à cette défaite, l'équipage se dispersa sous les yeux de Winslow Mosk, 
 
 8ème : Winslow Mosk, né lycanthrope, 240 ans (542–792 KE). Tenta toute sa vie de regrouper les thérianthropes dispersés, en vain.
 
-9ème : Mordecai Senhnon, tranféré, 103 ans (792–895 KE), enfermé durant toute la durée à Revel's End pour magie noire jusqu'au transfert de la malédiction et son suicide en 895 KE
+9ème : Mordecai Senhnon, tranféré, 106 ans (792–898 KE), enfermé durant toute la durée à Revel's End pour magie noire jusqu'au transfert de la malédiction et son suicide en 895 KE
 
-10ème : Mevola de Lisarenne, mordue, en transformation
+10ème : Mevola de Lisarenne, 0 ans (898—? KE), mordue, en transformation
 %%
 
 ## Types de thérianthropie
