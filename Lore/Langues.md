@@ -118,9 +118,6 @@ Gnome des Forêts — Ukrainien
 Gnome des Rochers — Polonais
 Svirfneblin — Biélorusse
 
-Commun des profondeurs — LSF/Russe
-Celeste — Grec
-
 ### Famille de l'Infernal
 Infernale — Telugu
 Abyssale — Tamoul
@@ -135,3 +132,5 @@ Terran — Filipino
 
 ### Autres
 Profond — Espéranto
+Commun des profondeurs — LSF/Russe
+Celeste — Grec
