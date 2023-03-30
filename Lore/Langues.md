@@ -103,7 +103,7 @@ Unseelie/Outremonde — Pachtô
 
 #### Elfique
 Elfique — Anglais %%(Urdu+Hindi)%%
-Haut-Elfe — Irlandais
+Haut-Elfique — Irlandais
 Sylvestre —  Gaélique (Écosse)
 Drow — Gallois
 
@@ -120,13 +120,13 @@ Svirfneblin — Biélorusse
 
 ### Famille de l'Infernal
 Infernale — Telugu
-Abyssale — Tamoul
+Abyssal — Tamoul
 Gnoll — Kannada
 
 ### Famille du primordial
 Primordial — Javanais
 Aquan — Hawaiian
-Auran — Indonesian
+Auran — Indonésien
 Ignan — Sundanese
 Terran — Filipino
 

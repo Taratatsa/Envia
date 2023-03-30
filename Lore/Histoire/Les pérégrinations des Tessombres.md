@@ -45,3 +45,6 @@ Attaque d'un ver marron sur le groupe
 	  data-type='box'> 
 	Pluie anormale dans le désert, magique mais d'origine inconnue
 </span>
+
+## Réputations
+Groupe :
