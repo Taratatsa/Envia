@@ -3,7 +3,7 @@
 
 ## Préparation
 Départ vers Whitford (s'assurer que tout le monde est prêt) :
-* Ellipse de 2 jours sur la rivière de Lisarenne à Clifrost (Saltle River)
+* Ellipse de 2 jours (et 1 heure) sur la rivière de Lisarenne à Clifrost (Saltle River)
 	* Jour : T ≈ 19°C --> 17 °C
 	* Moyenne : T ≈ 13°C --> 12 °C
 	* Nuit : T ≈ 7°C --> 7 °C
