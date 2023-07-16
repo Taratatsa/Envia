@@ -85,6 +85,20 @@ graph TB
 ```
 
 ## Citations
+"Les mages ont la connaissance. Les sorciers, le pouvoir. Les soldats, le courage. Les croyants, leur foi. Et les poètes, du cœur. Mais moi… Tout ce que j’ai, c’est la rage."
+
+"Uzad ! Il est temps que tu répondes de tes actes !
+\- Je ne vois pas de quoi vous parlez ! Ne suis-je pas qu'un fermier qui ne ferait pas de mal à une mouche ? Allons, que puis-je faire pour vous ?
+\- Ça ne marche pas comme ça, Uzad, je sais qui tu es !
+\- Et alors, hm ? Que veux-tu que je fasse ? Enlever mon masque et être l'ancien moi ? C'est ce que tu voulais, n'est-ce pas ? L'ancien moi. Impérial. Purgeant quiconque je juge inférieur. Tu aimes bien les Manasiéens, hein ? Je les écraserai.
+\- Uzad ! Arrête !
+\- Oh, si tu veux m'arrêter il faudra me tuer...
+\- Tu sais que je devais le faire pour t'arr... !
+\- Exactement ! Tu ! M'as ! Arrêté ! N'oublie pas que tu es celle qui m'a mis ce masque sur le visage ! Et te voilà, devant moi, à me juger ? Ha ha, ne me fais pas rire. Pourquoi on ne fait pas ça, je vais remettre mon masque et tu vas garder le tiens, et on va revenir à cette mascarade que tu as instillée. Et donc, je te le demande, encore une fois... Que puis-je faire pour toi ?"
+
+"J'aimerais bien être heureux, même si je ne sais pas ce que ça veut dire… J'en ai marre d'être malheureux."
+
+"Je n'aime pas ça… Je ne supporte pas d'être capable d'entendre un homme hurler de douleur sans prendre le temps de me demander si j'ai raison. De savoir que pour être aussi bon que ça, je dois m'aliéner inhumainement. Je ne veux pas devenir comme ça."
 
 ## Galerie
 

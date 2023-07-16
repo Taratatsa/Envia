@@ -1,18 +1,10 @@
 #Personnage/Mortel [[Mortel]]
-#CompagnieDuChaos
-
-# Mardil Astaldo
-
-## Apparence
 
 ## Informations personnelles
 ### Nom Complet
-Mardil Astaldo
 ### Pronoms
 ### Titres
 ### Alias
-Casey Mirtek (Pseudonyme de caval)
-
 ### Type de créature
 ### Race
 ### Classe %%(le cas échéant)%%
@@ -21,7 +13,8 @@ Casey Mirtek (Pseudonyme de caval)
 ### Naissance
 ### Décès
 ### Résidence
-### Occupations
+### Occupation
+Vendeur de fournitures de montagnes et maire de Dustwind
 
 ## Histoire
 
@@ -35,16 +28,16 @@ Casey Mirtek (Pseudonyme de caval)
 ## Relations
 ### Famille
 ### Relations amoureuses
-[[Kinford Ier|Mallun Hivro]] (Amante)
 ### Amis
 ### Alliés et Affiliations
+### Foi
 ### Ennemis
 ### Autres relations
 
 ## Arbre Généalogique
 ```mermaid
-graph TD
-    ?[?] --> ?x!( )
+graph TB
+    ?[?] --> ?x!{{?x!}}
     ![!] --> ?x!
 
     ?x! --> ?![?!]
@@ -53,7 +46,5 @@ graph TD
 ## Citations
 
 ## Galerie
-![[Attachements/PC/Une Angélique Errance/Casey/Token.png]]
 
 ## Anecdotes
-

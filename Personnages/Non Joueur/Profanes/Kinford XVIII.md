@@ -3,5 +3,5 @@
 # Kinford XVIII
 
 Empereur de l'[[Empire Kinfordien]].
-Compagnon de [[Mallun Quinn Kinford]].
+Compagnon de [[Kinford Ier|Mallun Hivro]].
 Père de [[Kinford XIX]].

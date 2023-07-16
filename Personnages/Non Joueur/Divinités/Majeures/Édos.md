@@ -8,3 +8,6 @@ Forme mortelle :
 Ange de la Vie et de la Mort, fils tant biologique que spirituel d'[[Odar]] et [[Terigon]].
 Séparé en [[Isis]] et [[Osiris]] récemment.
 True Neutral (Depending)
+
+Citations :
+“Dans un monde sans amour, la mort ne signifie rien.”
