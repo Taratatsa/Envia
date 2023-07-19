@@ -40,7 +40,11 @@ Vivante
 12 Coeurazur 1773
 
 ### Décès
-Toujours vivante, rassurez-vous, toujours la banane, toujours debout !
+~~Toujours vivante, rassurez-vous, toujours la banane, toujours debout !~~
+
+Alors...justement par rapport à ça...
+
+Elle est morte après avoir attaqué un...très très vieux lanceur de sort qui lui a balancé une désintégration.
 
 ### Résidence
 [[Monde féérique]] (anciennement)
