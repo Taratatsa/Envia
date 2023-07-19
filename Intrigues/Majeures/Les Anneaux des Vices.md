@@ -1,4 +1,4 @@
-#Intrigue 
+#Intrigue/Majeure 
 
 ## Idées/Synopsis
 Basé sur la [[Religion Universelle]] et ses vices.

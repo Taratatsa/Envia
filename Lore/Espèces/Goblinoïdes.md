@@ -1,4 +1,4 @@
-#Espèce [[Espèce]]
+#Espèce
 
 # Goblinoïdes
 

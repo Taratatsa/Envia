@@ -20,7 +20,7 @@ Namémeï : a retrouvé son équipage et a continué à vivre une vie de pirate.
 
 Ember : Toujours sous terre, son âme erre dans l'Outremonde.
 
-Arsys : Semi-liche (âme scellée dans son propre corps en tant que phylactère), actuellement à la tête de l'Église du Crépuscule. Iksana la visite régulièrement.
+Arsys : Semi-[[liche]] (âme scellée dans son propre corps en tant que phylactère), actuellement à la tête de l'Église du Crépuscule. Iksana la visite régulièrement.
 
 Zelthsirka : Toujours vivante. Toujours debout.
 

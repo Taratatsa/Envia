@@ -1,5 +1,4 @@
 #Intrigue/Mineure
-#Intrigue 
 
 ## Synopsis
 [[Camilla Hivro#Histoire]]

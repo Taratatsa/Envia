@@ -5,9 +5,9 @@
 ### Introduction
 [[Kinford Ier]], désormais réintégrée au sein de son corps originel, bien que vieilli, hante les souterrains de [[Whitford]].
 Ses années de mensonge menèrent à la création de deux créatures totalement opposées : une fausse hydre et une vraie hydre. L'une faisant oublier aux créatures qui l'entendent ceux qu'elle dévore, l'autre se nourrissant des rêves et de l'imagination des mêmes créatures en recréant ceux-ci dans leur esprit, de simples illusions pourtant bien réelles... tant qu'elles chantent.
-Ces deux créatures, bien que se livrant un combat sans relâche, veulent cependant toutes deux la même chose : dévorer le corps et l'esprit de lea hiérarque pour prendre l'ascendant sur l'autre.
+Ces deux créatures, bien que se livrant un combat sans relâche, veulent cependant toutes deux la même chose : dévorer le corps et l'esprit de lea [[hiérarche]] pour prendre l'ascendant sur l'autre.
 
-Désormais, lea hiérarque tente tant bien que mal de rassembler ses forces pour sortir de son trou en échappant aux deux créature. Se baladant de portrait en portrait au sein du palais, iel attend qu'un groupe d'aventuriers viennent lea libérer de son emprisonnement... quel qu'en soit le moyen.
+Désormais, lea [[hiérarche]] tente tant bien que mal de rassembler ses forces pour sortir de son trou en échappant aux deux créature. Se baladant de portrait en portrait au sein du palais, iel attend qu'un groupe d'aventuriers viennent lea libérer de son emprisonnement... quel qu'en soit le moyen.
 
 ### La chute des hydres
 Une petite fille dont les parents ont été dévorés par la fausse hydre a été recueillie par un chaman local. Celui-ci fut aussi dévoré, mais pas sans avoir raconté à la petite fille ses aventures.
@@ -16,7 +16,7 @@ Et son rêve se réalisa... De la pire des façons. Elle tua la vraie hydre avec
 
 %%Reprise du déroulement%%
 
-La moitié de la ville disparut. Et les mages s'en vinrent, inquiétés par cette disparition. Et leur magie et leurs connaissances suffirent. La [fausse hydre](https://www.kassoon.com/dnd/monster-stat-block/1614/false-hydra/) fut découverte. Elle fut détruite, désintégrée grâce à l'aide de la [[Compagnie Douze]], et les souterrains de la ville fouillés. Hormis un vieux sorcier détraqué, usé par les années qui s'était réfugié dans la moiteur de ceux-ci, rien de plus n'y fut trouvé.
+La moitié de la ville disparut. Et [[les mages]] s'en vinrent, inquiétés par cette disparition. Et leur magie et leurs connaissances suffirent. La [fausse hydre](https://www.kassoon.com/dnd/monster-stat-block/1614/false-hydra/) fut découverte. Elle fut détruite, désintégrée grâce à l'aide de la [[Compagnie Douze]], et les souterrains de la ville fouillés. Hormis un vieux sorcier détraqué, usé par les années qui s'était réfugié dans la moiteur de ceux-ci, rien de plus n'y fut trouvé.
 
 Mais le vagabond n'en était pas vraiment un... Le sorcier qui avait infesté la terre de sa présence un millénaire auparavant revenait, enfin libre de ses mouvements... Et déterminé à retrouver son dernier espoir, ici, dans cette ville, dans [[La peste soit des larmes]].
 
@@ -25,6 +25,6 @@ Mais le vagabond n'en était pas vraiment un... Le sorcier qui avait infesté la
 ## Déroulement
 
 Les aventuriers abattent, à la sueur de leur front, la fausse hydre.
-Kinford Ier désintègre, par pure rancune, la fausse hydre abattue. Epaline l'attaque, recevant en retour la seconde désintégration du sorcier. La jeune femme perd la vie le 6 soufflebise 898 KE, à 06:10:48
+[[Kinford Ier]] désintègre, par pure rancune, la fausse hydre abattue. Epaline l'attaque, recevant en retour la seconde désintégration du sorcier. La jeune femme perd la vie le 6 soufflebise 898 KE, à 06:10:48
 
 Épaline, dans une ultime prière, convainc la Reine Corbeau d'instiller la pitié dans le cœur de l'Empereur. Ce dernier remet son sceau impérial aux aventuriers, les dirigeant vers le culte de l'[[Église du Crépuscule]].

@@ -1,1 +1,2 @@
 #Personnage/Mortel [[Mortel]]
+Kinford

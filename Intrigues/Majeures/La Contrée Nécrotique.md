@@ -3,7 +3,7 @@
 
 # La Contrée Nécrotique
 ## Idée
-Gretaushal, anciennement Rolekai Sitrael. Nécromancien, Arche-liche. Phylactère : Claustra de porcelaine en forme de petit cœur humain, brillant d'une lumière blanche pure, au rythme d'un battement de cœur.
+Gretaushal, anciennement Rolekai Sitrael. Nécromancien, [[Liche|Arche-liche]]. Phylactère : Claustra de porcelaine en forme de petit cœur humain, brillant d'une lumière blanche pure, au rythme d'un battement de cœur.
 
 Il utilisa ses dons pour réanimer les morts et aider lors d'une grande disette.
 
@@ -14,7 +14,7 @@ Les zombies utilisent des outils de tous les jours pour se défendre : pelles, p
 
 Plus de villages pillés, plus de rumeurs d'un groupe de mercenaires corrompus. D'étranges pouvoirs, des armes légendaires, rasant des villages sans laisser un seul survivant. Une prime vient éventuellement. Mais plus ils les poursuivent, plus ils les loupent. Des groupes de bandits de plus en plus puissants les attaquent, mais les mercenaires semblent toujours leur échapper.
 
-Finalement, découvrent qu'une Arche-liche entraîne des nécromanciens à lever des hordes de morts-vivants.
+Finalement, découvrent qu'une [[Liche|Arche-liche]] entraîne des nécromanciens à lever des hordes de morts-vivants.
 
 Une fois les quelques défenses (faibles) anéanties, plus rien pour défendre. Les lieux sont vides, jusqu'à la salle du trône.
 

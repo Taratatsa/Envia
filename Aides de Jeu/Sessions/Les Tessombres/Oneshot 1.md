@@ -18,9 +18,9 @@ Le personnage d'Adélaïde est le seul vrai personnage. Les autres sont des frag
 La Vraie Hydre (stat block )
 
 TODO en début de session (récap') :
-* Quête proposée par Mallun Hivro, côtée à 69420 PP, sur le panneau d'affichage : récupération d'un tableau dans la salle du trône du Haut-Roi, aujourd'hui déserte.
+* Quête proposée par [[Kinford Ier|Mallun Hivro]], côtée à 69420 PP, sur le panneau d'affichage : récupération d'un tableau dans la salle du trône du Haut-Roi, aujourd'hui déserte.
 * Sac retrouvé à la 6ème place, contenant les affaires d'un shaman (encens, 5 potions de soin supérieur, 10 potions de soin).
 
 ## Déroulement
 
-Kinford Ier s'échappe de Whitford, la Vraie Hydre est tuée par une petite fille et ses rêves.
+[[Kinford Ier]] s'échappe de [[Whitford]], la Vraie Hydre est tuée par une petite fille et ses rêves.

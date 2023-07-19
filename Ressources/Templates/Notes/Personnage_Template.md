@@ -1,15 +1,15 @@
 #Personnage [[Personnage]]
-> [!infobox]
+> [!infobox|wikipedia]
 > # {{Title}}
 > ![[Image.png|cover hsmall]]
 > 
 > |||
-> | :---- | ----: |
+> | ---- | ---- |
 > | Type | ? |
 > | Player | ? |
 > ###### Informations personnelles
 > |||
-> | :---- | :---- |
+> | ---- | ---- |
 > | Nom complet | ? |
 > | Pronoms | ? |
 > | Alias | ? |
@@ -42,6 +42,11 @@
 > | Perception | ? |
 > | Investigation | ? |
 > | Perspicacité | ? |
+> 
+> | Statistique diverse | Valeur |
+> | ---- | ---- |
+> | Classe d'Armure | ? |
+> | CD de sauvegarde de sort | ? |
 
 ## Description
 ### Apparence
