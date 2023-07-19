@@ -1,56 +1,54 @@
 #Personnage/Mortel [[Mortel]]
 #Compagnie-Douze [[Compagnie Douze]]
 
-# Epaline Llamiryl
 
-## Informations personnelles
-
-### Nom Complet
-~~Neïnara Ahnvae-Gyrah (Neïnara Oiseau de Nuit) (anciennement)~~
-Epaline Llamiryl
-
-### Pronoms
-Elle
-
-### Titres
-Chevaleresse aux plumes noires (pour le temple d'Edos/ plus haut grade au temple de la Reine Corbeaux)
-
-### Alias
-La fine plume (liée à son titre)
-La convocatrice  (temple de la reine corbeaux/ Chevaleresse)
-
-### Type de créature
-
-### Race
-~~Satyr (anciennement)~~
-~~Changeling (actuellement)~~
-Elfe du soleil ~~(officiellement)~~
-
-### Classe %%(le cas échéant)%%
-Occultiste du pacte de la lame maudite
-
-### Alignement
-Loyal Neutre
-
-### Statut
-Vivante
-
-### Naissance
-~~8 Closeporte 1751~~
-12 Coeurazur 1773
-
-### Décès
-~~Toujours vivante, rassurez-vous, toujours la banane, toujours debout !~~
-
-Alors...justement par rapport à ça...
-
-Elle est morte après avoir attaqué un...très très vieux lanceur de sort qui lui a balancé une désintégration.
+> [!infobox]
+> # Epaline Llamiryl
+> ![[Epaline-portrait.png|cover hsmall]]
+> 
+> |||
+> | :---- | ----: |
+> | Type | PJ |
+> | Player | Adélaïde |
+> ###### Informations personnelles
+> |||
+> | :---- | :---- |
+> | Nom complet ancien | Neïnara Ahnvae-Gyrah (Neïnara Oiseau de Nuit) |
+> | Nom complet actuel | Epaline Llamiry |
+> | Pronoms | Elle |
+> | Alias | La fine plume (titre) / La convocatrice (temple reine corbeaux / Chevaleresse) |
+> | Lignée | / |
+> | Titres | Chevaleresse aux plumes noires |
+> | Type de créature | Fae |
+> | Espèce | ~~Changeling~~ Elfe du soleil ? |
+> | Occupation | Mercenaire |
+> | Classe | Occultiste du pacte de la lame maudite |
+> | Alignement | Loyal Neutre |
+> ###### Statut
+> |||
+> | ---- | ---- |
+> | Statut | Morte |
+> | Date de naissance | 8 Closeporte 1751 (?) |
+> | Lieu de naissance | Féerie |
+> | Date de mort | 6 Soufflebise 898 KE à 6h10:48 |
+> ###### Statistiques
+> | Caractéristique | Valeur |
+> | ---- | ---- |
+> | Force | 8 |
+> | Dextérité | 14 |
+> | Constitution | 16 |
+> | Intelligence | 8 |
+> | Sagesse | 10 |
+> | Charisme | 17 |
+> 
+> | Compétence passive | Valeur |
+> | ---- | ---- |
+> | Perception | 10 |
+> | Investigation | 9 |
+> | Perspicacité | 13 |
 
 ### Résidence
 [[Monde féérique]] (anciennement)
-
-### Occupation
-Vagabonde, Aventurière
 
 ## Histoire
 Elle était une satyre née dans le plan des fées et y vivait paisiblement, elle n’avait pas de noms car ayant été élevée uniquement par la nature.
@@ -120,6 +118,13 @@ Elle n’arrêtait pas d’alterner entre prendre le corps de Llamiryl avec les 
 Cette dernière changea son apparence pour prendre le corps de Llamiryl et les tatouages d’Epaline, sur tout son corps.
 Elle décida de prendre leur noms pour se forger une nouvelle identité mais également d'alterner son corps quand elle le peu pour continuer de se rappeler de ses amours. 
 
+### Décès
+~~Toujours vivante, rassurez vous, toujours la banane, toujours debout !~~
+
+Alors...justement par rapport à ça…
+
+Elle est morte après avoir attaqué un...très très vieux lanceur de sort qui lui a balancé une désintégration.
+
 ## Description
 ### Apparence
 Epaline est une grande elfe du soleil d'1m80, elle a des cheveux longs noir mi-long fortement bouclés.
@@ -136,6 +141,7 @@ Elle cache en réalité une personnalité craintive, doutant de tous ceux qui l'
 Mais malgré tout ça, son honneur de combattante restera son trésor le plus précieux.
 
 Elle cherche désespéremment qui elle est, ce qu'elle est sensée faire dans ce monde, et utilisera ses dons pour trouver une identité qui la correspond.
+
 ## Capacités
 Maîtrise de toutes armes, de bouclier et d'armures légères et moyennes.
 
@@ -176,7 +182,8 @@ graph TD
 
 Portrait d'Epaline
 ![[Epaline-portrait.png]]
-Token d'Epaline
+Tokens d'Epaline
 ![[Epaline-Token.png]]
+![[Llamiryl-Token.png]]
 
 ## Anecdotes
