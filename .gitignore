@@ -1,3 +1,6 @@
-.obsidian/*
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/workspace*
+
 .trash/*
 Attachements/Cartes/*
