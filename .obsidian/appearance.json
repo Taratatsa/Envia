@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "translucency": false,
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "Tables without headings",
+    "Theme - All Alternate Themes"
+  ]
+}
