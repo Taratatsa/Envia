@@ -13,10 +13,9 @@
 > ###### Informations personnelles
 > |||
 > | :---- | :---- |
-> | Nom complet ancien | Neïnara Ahnvae-Gyrah (Neïnara Oiseau de Nuit) |
-> | Nom complet actuel | Epaline Llamiry |
+> | Nom complet | Neïnara Ahnvae-Gyrah (Neïnara Oiseau de Nuit) |
 > | Pronoms | Elle |
-> | Alias | La fine plume (titre) / La convocatrice (temple reine corbeaux / Chevaleresse) |
+> | Alias | Epaline Llamiry<br>La fine plume (titre)<br>La convocatrice (temple reine corbeaux<br>Chevaleresse) |
 > | Lignée | / |
 > | Titres | Chevaleresse aux plumes noires |
 > | Type de créature | Fae |
@@ -46,6 +45,11 @@
 > | Perception | 10 |
 > | Investigation | 9 |
 > | Perspicacité | 13 |
+> 
+> | Statistique diverse | Valeur |
+> | ---- | ---- |
+> | Classe d'Armure | 18 |
+> | CD de sauvegarde de sort | 14 |
 
 ### Résidence
 [[Monde féérique]] (anciennement)
