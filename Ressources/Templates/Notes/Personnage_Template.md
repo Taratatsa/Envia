@@ -1,5 +1,5 @@
 #Personnage [[Personnage]]
-> [!infobox|wikipedia]
+> [!infobox]
 > # {{Title}}
 > ![[Image.png|cover hsmall]]
 > 
