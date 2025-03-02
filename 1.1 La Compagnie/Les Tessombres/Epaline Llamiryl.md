@@ -8,6 +8,7 @@ aliases:
   - Epaline
   - Eladine Lamyriel
   - Eladine
+  - Epaline Llamiryl
 ---
 > [!infobox]
 > # Epaline Llamiryl
