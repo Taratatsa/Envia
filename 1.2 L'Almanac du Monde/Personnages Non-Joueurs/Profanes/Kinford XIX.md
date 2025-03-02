@@ -1,0 +1,5 @@
+---
+tags:
+  - Personnage/Mortel
+---
+Kinford
