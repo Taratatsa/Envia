@@ -1,0 +1,15 @@
+{
+  "spellcheck": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "propertiesInDocument": "visible",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
+}

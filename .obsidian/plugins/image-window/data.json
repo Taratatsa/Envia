@@ -1,0 +1,17 @@
+{
+  "saveWindowLocations": true,
+  "windows": {
+    "DEFAULT": {
+      "hosts": {
+        "ROG-Jules": {
+          "x": 682,
+          "y": 266,
+          "width": 801,
+          "height": 601,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}
