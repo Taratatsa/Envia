@@ -1,0 +1,7 @@
+!.obsidian
+.obsidian/graph.json
+.obsidian/hotkeys.json
+.obsidian/workspace*
+
+.trash/*
+z_Ressources/Attachements/Cartes/*
