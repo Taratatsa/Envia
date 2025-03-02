@@ -1,0 +1,17 @@
+- Campaign Arc 1: the Start of the Adventure, level 3 to 7
+	- Narrative Act 1, level 3->5: Party start the adventure with their first missions, getting the water supply for the desert country capital back. Manage to kill a brown worm (desert version of a purple worm), attracting attention.
+		- Immediate arc 1: Travel to the thieves base and ambush from the goblins.
+		- Immediate arc 2: First dungeon, the Thieves Cave, The Brown Worm attack
+		- Immediate arc 3: The bandit captain revenge (an epic fail, if I may)
+		- Immediate arc 4: Discovering the world, the city, shopping, social interactions… And Mariane Ellipse + Michel Bubulles (level 4, then 5 with a season of training)
+	- Narrative Arc 2, level 5->6: Prisoner 13. Wanted to run the module and was embedding easily with the rise in notoriety of the party. A short one, but the players made it drag a little by being relay thorough (which I loved to master in game, by the way).
+	- Narrative Arc 3, level 6->7: Investigation (with travel) in the North Kingdom regarding missing persons not remembered (iykyk) ending with de freeing of a well known and dangerous foe. Ending with the disintegration of one of the PCs… blind Eldritch Blasting the BBEG with Disintegrate wasn’t a good move. BBEG, sorry for the incident and owing them for freeing them, gives them a ring to get a free resurrection at the Twilight Church.
+- Campaign Arc 2 (the current one): The War between Men and Gods, level 7->13 to 15 (depending on the scenario)
+	- Narrative Arc 1, level 7->9: resurrection of the dead party member, betrayal of the BBEG (teleported to the ring to capture a new body) and training following the strain of the battle.
+	- Narrative Arc 2, level 9->10: the BBEG plan is set into motion, he gathers an army of liches with fragments of his soul (one for each classes) to kill the gods (he has beef with them, especially the goddess of knowledge and the Gold Dragon greatwyrm), and the party accidentally helps freeing one of its instances (Again, oops?)
+	- Narrative Arc 3, level 10->11: the party intervenes in the draconic war to gain support (either temporary peace or obliteration of the chromatic dragons)
+	- Narrative Arc 4, level 11->12: the party gather supports from the free mortals (ie not the undead army of the BBEG)
+	- Narrative Arc 5, level 12->13/14: the party fights the undead army with their allies (most of the allies might die in the process)
+	- Narrative Arc 6, level 13->14 or 14->15: the party fights the actual liches
+	- Narrative Arc 7, level 14->15 (optional): the party either fight the BBEG or join him.
+- Campaign Arc 3, level 15->20: Divine War. Either for some gods against others, or against the whole pantheon (depending on the choices made).
