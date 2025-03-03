@@ -1,0 +1,27 @@
+# Blessures Persistantes
+## [[Acide]]
+`dice: [[Acide]]^LingeringInjuries]]`
+## [[Contondant]]
+`dice: [[Contondant]]^LingeringInjuries]]`
+## [[Électrique]]
+`dice: [[Électrique]]^LingeringInjuries]]`
+## [[Feu]]
+`dice: [[Feu]]^LingeringInjuries]]`
+## [[Force]]
+`dice: [[Force]]^LingeringInjuries]]`
+## [[Froid]]
+`dice: [[Froid]]^LingeringInjuries]]`
+## [[Nécrotique]]
+`dice: [[Nécrotique]]^LingeringInjuries]]`
+## [[Perçant]]
+`dice: [[Perçant]]^LingeringInjuries]]`
+## [[Poison]]
+`dice: [[Poison]]^LingeringInjuries]]`
+## [[Psychique]]
+`dice: [[Psychique]]^LingeringInjuries]]`
+## [[Radiant]]
+`dice: [[Radiant]]^LingeringInjuries]]`
+## [[Tonnerre]]
+`dice: [[Tonnerre]]^LingeringInjuries]]`
+## [[Tranchant]]
+`dice: [[Tranchant]]^LingeringInjuries]]`
