@@ -2,7 +2,6 @@
 tags:
   - Personnage/Mortel
   - CompagnieDuChaos
-  - Personnage
 aliases:
   - Lauralès
   - Norah Leïke
