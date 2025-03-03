@@ -2,22 +2,19 @@
 tags:
   - Personnage/Mortel
   - CompagnieDuChaos
-aliases:
-  - Mardil Astaldo
 ---
-
-# Mardil Astaldo
+# Namemei aux Écailles d'Or
 
 ## Apparence
 
 ## Informations personnelles
 ### Nom Complet
-Mardil Astaldo
+Namemei Brynmor
+
 ### Pronoms
 ### Titres
 ### Alias
-Casey Mirtek (Pseudonyme de caval)
-
+Namemei aux Écailles d'Or (Surnom pirate)
 ### Type de créature
 ### Race
 ### Classe %%(le cas échéant)%%
@@ -40,7 +37,6 @@ Casey Mirtek (Pseudonyme de caval)
 ## Relations
 ### Famille
 ### Relations amoureuses
-[[Vairae|Mallun Hivro]] (Amante)
 ### Amis
 ### Alliés et Affiliations
 ### Ennemis
@@ -58,7 +54,7 @@ graph TD
 ## Citations
 
 ## Galerie
-![[z_Ressources/Attachements/PC/Une Angélique Errance/Casey/Token.png]]
+![[z_Ressources/Attachements/PC/Une Angélique Errance/z_Ex-Membres/Namemei/Avatar.png]]
 
 ## Anecdotes
 

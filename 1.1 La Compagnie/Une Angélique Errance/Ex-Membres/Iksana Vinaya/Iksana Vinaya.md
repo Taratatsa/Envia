@@ -203,7 +203,7 @@ Fiélon familier : Elvas
 ## Citations
 
 ## Galerie
-![[z_Ressources/Attachements/PC/Une Angélique Errance/Iksana/Avatar.jpg]]
+![[z_Ressources/Attachements/PC/Une Angélique Errance/z_Ex-Membres/Iksana/Avatar.jpg]]
 ![[Vinaya_token_2.png]]
 
 ## Anecdotes

@@ -57,6 +57,6 @@ graph TD
 ## Citations
 
 ## Galerie
-![[z_Ressources/Attachements/PC/Une Angélique Errance/Mordecai/Token.png]]
+![[z_Ressources/Attachements/PC/Une Angélique Errance/z_Ex-Membres/Mordecai/Token.png]]
 
 ## Anecdotes
