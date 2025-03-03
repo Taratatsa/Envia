@@ -47,7 +47,7 @@ var GraphNestedTagsPlugin = class extends import_obsidian.Plugin {
             if (id[i] === "/") {
               parent = id.slice(0, i);
               if (!(parent in nodes)) {
-                nodes[parent] = { "type": "tag", links: [] };
+                nodes[parent] = { type: "tag", links: [] };
                 data.numLinks++;
               }
               nodes[last_tag].links[parent] = true;
@@ -62,18 +62,22 @@ var GraphNestedTagsPlugin = class extends import_obsidian.Plugin {
     return graphLeaf;
   }
   async onload() {
-    for (const leaf of this.app.workspace.getLeavesOfType("graph")) {
-      this.inject_setData(leaf);
-      leaf.view.unload();
-      leaf.view.load();
-    }
     this.registerEvent(
-      this.app.workspace.on("active-leaf-change", (leaf) => {
-        if ((leaf == null ? void 0 : leaf.view.getViewType()) === "graph") {
-          this.inject_setData(leaf);
+      this.app.workspace.on("layout-change", () => {
+        for (const leaf of this.app.workspace.getLeavesOfType(
+          "graph"
+        )) {
+          if (leaf.view.renderer._setData === void 0) {
+            this.inject_setData(leaf);
+          }
         }
       })
     );
+    this.app.workspace.trigger("layout-change");
+    for (const leaf of this.app.workspace.getLeavesOfType("graph")) {
+      leaf.view.unload();
+      leaf.view.load();
+    }
   }
   onunload() {
     for (const leaf of this.app.workspace.getLeavesOfType(
@@ -92,3 +96,5 @@ var GraphNestedTagsPlugin = class extends import_obsidian.Plugin {
   async saveSettings() {
   }
 };
+
+/* nosourcemap */

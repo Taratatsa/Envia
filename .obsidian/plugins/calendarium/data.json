@@ -275,7 +275,6 @@
       "showIntercalarySeparately": false
     }
   ],
-  "deletedCalendars": [],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
@@ -296,9 +295,9 @@
   "showIntercalary": false,
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 5,
     "patch": 0,
-    "beta": 29
+    "beta": null
   },
   "debug": false,
   "askedToMoveFC": false,
