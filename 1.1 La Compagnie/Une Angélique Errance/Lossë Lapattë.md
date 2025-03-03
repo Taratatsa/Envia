@@ -2,6 +2,8 @@
 tags:
   - Personnage/Mortel
   - CompagnieDuChaos
+aliases:
+  - Lossë
 ---
 # Lossë Lapattë
 

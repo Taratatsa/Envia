@@ -5,6 +5,7 @@ tags:
 aliases:
   - Lauralès
   - Norah Leïke
+  - Norah
 ---
 > [!infobox]
 > # Lauralès Arvis

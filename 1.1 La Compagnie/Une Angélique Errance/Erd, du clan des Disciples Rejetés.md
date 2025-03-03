@@ -2,6 +2,8 @@
 tags:
   - Personnage/Mortel
   - CompagnieDuChaos
+aliases:
+  - Erd
 ---
 # Erd, du clan des Disciples Rejetés
 
