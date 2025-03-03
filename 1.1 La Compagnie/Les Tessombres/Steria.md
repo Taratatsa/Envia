@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > # Steria
-> ![[Image.png|cover hsmall]]
+> ![[Steria-Avatar.jpeg|cover hsmall]]
 > 
 > |||
 > | ---- | ---- |

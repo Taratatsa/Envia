@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]
 > # Gottmick
-> ![[Image.png|cover hsmall]]
+> ![[Gottmick-Avatar.jpeg|cover hsmall]]
 > 
 > |||
 > | ---- | ---- |
