@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"file","file":"1.2 L'Almanac du Monde/Personnages Non-Joueurs/Profanes/Matrvat Anastrianna.md","id":"8b8dc44e24d7a421","x":-520,"y":-800,"width":400,"height":400},
+		{"type":"file","file":"1.2 L'Almanac du Monde/Personnages Non-Joueurs/Profanes/Bonté Matrvat.md","id":"1a9e58bce3081a10","x":-300,"y":-200,"width":400,"height":380},
+		{"type":"file","file":"1.2 L'Almanac du Monde/Personnages Non-Joueurs/Profanes/Arannis Siannodel.md","id":"ccda7628d59d243d","x":-80,"y":-800,"width":400,"height":400},
+		{"type":"file","file":"1.2 L'Almanac du Monde/Personnages Non-Joueurs/Profanes/Vinaya Bonté.md","id":"894199e2539ec518","x":-80,"y":380,"width":400,"height":400},
+		{"type":"text","text":"Epaline Brymoira","id":"a12e92872bd5c777","x":140,"y":-200,"width":440,"height":380},
+		{"id":"9bef26cc3899411a","type":"file","file":"1.2 L'Almanac du Monde/Personnages Non-Joueurs/Profanes/Hadriel.md","x":440,"y":380,"width":400,"height":400},
+		{"id":"13ea53f6f8f019ed","type":"file","file":"1.1 La Compagnie/Une Angélique Errance/Ex-Membres/Iksana Vinaya/Iksana Vinaya.md","x":400,"y":1080,"width":400,"height":400},
+		{"id":"ba3dbcc20642b5f9","type":"file","file":"1.2 L'Almanac du Monde/Personnages Non-Joueurs/Profanes/Avemya Vinaya.md","x":-40,"y":1080,"width":400,"height":400},
+		{"id":"cb1c8ce86c502a9c","type":"text","text":"Mariage","x":340,"y":860,"width":80,"height":50},
+		{"type":"text","text":"Union","id":"45d5ffc1b58f4c20","x":80,"y":260,"width":80,"height":50},
+		{"type":"text","text":"Mariage","id":"e9b75285e47bd36b","x":-140,"y":-320,"width":80,"height":50}
+	],
+	"edges":[
+		{"id":"551f9031a959eb7c","fromNode":"ccda7628d59d243d","fromSide":"bottom","toNode":"e9b75285e47bd36b","toSide":"right"},
+		{"id":"e9ef3165021d2e74","fromNode":"8b8dc44e24d7a421","fromSide":"bottom","toNode":"e9b75285e47bd36b","toSide":"left"},
+		{"id":"bd7eafd1764a73e5","fromNode":"1a9e58bce3081a10","fromSide":"bottom","toNode":"45d5ffc1b58f4c20","toSide":"left"},
+		{"id":"e7b3140fbb186103","fromNode":"894199e2539ec518","fromSide":"bottom","toNode":"cb1c8ce86c502a9c","toSide":"left"},
+		{"id":"299b64d665e246df","fromNode":"9bef26cc3899411a","fromSide":"bottom","toNode":"cb1c8ce86c502a9c","toSide":"right"},
+		{"id":"a8fbdef89e55ad34","fromNode":"cb1c8ce86c502a9c","fromSide":"bottom","toNode":"ba3dbcc20642b5f9","toSide":"top"},
+		{"id":"e588a73c2e44e039","fromNode":"cb1c8ce86c502a9c","fromSide":"bottom","toNode":"13ea53f6f8f019ed","toSide":"top"},
+		{"id":"89fbcc0e5b2663d9","fromNode":"a12e92872bd5c777","fromSide":"bottom","toNode":"45d5ffc1b58f4c20","toSide":"right"},
+		{"id":"6cb2157dce16bd15","fromNode":"45d5ffc1b58f4c20","fromSide":"bottom","toNode":"894199e2539ec518","toSide":"top"},
+		{"id":"db3866b5c7d869ce","fromNode":"e9b75285e47bd36b","fromSide":"bottom","toNode":"1a9e58bce3081a10","toSide":"top"}
+	]
+}
